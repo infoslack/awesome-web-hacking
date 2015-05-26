@@ -17,8 +17,10 @@ Table of Contents
 
 ## Books
 
-   * https://www.crypto101.io/ - Crypto 101 is an introductory course on cryptography.
+   * https://www.crypto101.io/ - Crypto 101 is an introductory course on cryptography
    * http://www.offensive-security.com/metasploit-unleashed/ - Metasploit Unleashed
+   * http://www.cl.cam.ac.uk/~rja14/book.html - Security Engineering
+   * https://www.feistyduck.com/library/openssl-cookbook/ - OpenSSL Cookbook
 
 ## Documentation
 
