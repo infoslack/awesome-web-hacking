@@ -11,6 +11,7 @@ Table of Contents
    * [Books](#books)
    * [Documentation](#documentation)
    * [Tools](#tools)
+   * [Vulnerabilities](#vulnerabilities)
    * [Courses](#courses)
    * [Labs](#labs)
    * [Security Ruby on Rails](#security-ruby-on-rails)
@@ -38,7 +39,16 @@ Table of Contents
    * http://www.openvas.org/ - The world's most advanced Open Source vulnerability scanner and manager.
    * https://github.com/iSECPartners/Scout2 - Security auditing tool for AWS environments
    * https://www.owasp.org/index.php/Category:OWASP_DirBuster_Project - Is a multi threaded java application designed to brute force directories and files names on web/application servers.
-   * https://www.owasp.org/index.php/ZAP - The Zed Attack Proxy (ZAP) is an easy to use integrated penetration testing tool for finding vulnerabilities in web applications.
+   * https://www.owasp.org/index.php/ZAP - The Zed Attack Proxy is an easy to use integrated penetration testing tool for finding vulnerabilities in web applications.
+
+## Vulnerabilities
+
+   * http://cve.mitre.org/ - Common Vulnerabilities and Exposures. The Standard for Information Security Vulnerability Names
+   * https://www.exploit-db.com/ - The Exploit Database – ultimate archive of Exploits, Shellcode, and Security Papers.
+   * http://1337day.com/ - Inj3ct0r is the ultimate database of exploits and vulnerabilities and a great resource for vulnerability researchers and security professionals.
+   * http://osvdb.org/ - OSVDB's goal is to provide accurate, detailed, current, and unbiased technical security information.
+   * http://www.securityfocus.com/ - Since its inception in 1999, SecurityFocus has been a mainstay in the security community.
+   * http://packetstormsecurity.com/ - Global Security Resource
 
 ## Courses
 
