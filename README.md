@@ -32,9 +32,13 @@ Table of Contents
 
    * http://www.metasploit.com/ - World's most used penetration testing software
    * http://www.arachni-scanner.com/ - Web Application Security Scanner Framework
+   * https://github.com/sullo/nikto - Nikto web server scanner
+   * http://www.tenable.com/products/nessus-vulnerability-scanner - Nessus Vulnerability Scanner
    * http://www.portswigger.net/burp/intruder.html - Burp Intruder is a tool for automating customized attacks against web apps.
    * http://www.openvas.org/ - The world's most advanced Open Source vulnerability scanner and manager.
    * https://github.com/iSECPartners/Scout2 - Security auditing tool for AWS environments
+   * https://www.owasp.org/index.php/Category:OWASP_DirBuster_Project - Is a multi threaded java application designed to brute force directories and files names on web/application servers.
+   * https://www.owasp.org/index.php/ZAP - The Zed Attack Proxy (ZAP) is an easy to use integrated penetration testing tool for finding vulnerabilities in web applications.
 
 ## Courses
 
