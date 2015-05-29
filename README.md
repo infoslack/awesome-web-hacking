@@ -46,6 +46,7 @@ Table of Contents
    * https://github.com/sqlmapproject/sqlmap - Automatic SQL injection and database takeover tool
    * https://github.com/beefproject/beef - The Browser Exploitation Framework Project
    * http://w3af.org/ - w3af is a Web Application Attack and Audit Framework
+   * https://github.com/espreto/wpsploit - WPSploit, Exploiting Wordpress With Metasploit
 
 ## Vulnerabilities
 
@@ -55,6 +56,7 @@ Table of Contents
    * http://osvdb.org/ - OSVDB's goal is to provide accurate, detailed, current, and unbiased technical security information.
    * http://www.securityfocus.com/ - Since its inception in 1999, SecurityFocus has been a mainstay in the security community.
    * http://packetstormsecurity.com/ - Global Security Resource
+   * https://wpvulndb.com/ - WPScan Vulnerability Database
 
 ## Courses
 
