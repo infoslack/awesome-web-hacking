@@ -84,3 +84,4 @@ Table of Contents
    * https://github.com/hakirisec/hakiri_toolbelt - Hakiri Toolbelt is a command line interface for the Hakiri platform.
    * https://hakiri.io/facets - Scan Gemfile.lock for vulnerabilities.
    * http://rails-sqli.org/ - This page lists many query methods and options in ActiveRecord which do not sanitize raw SQL arguments and are not intended to be called with unsafe user input.
+   * https://github.com/0xsauby/yasuo - A ruby script that scans for vulnerable & exploitable 3rd-party web applications on a network
