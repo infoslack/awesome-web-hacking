@@ -48,6 +48,7 @@ Table of Contents
    * http://w3af.org/ - w3af is a Web Application Attack and Audit Framework
    * https://github.com/espreto/wpsploit - WPSploit, Exploiting Wordpress With Metasploit
    * https://github.com/RUB-NDS/WS-Attacker - WS-Attacker is a modular framework for web services penetration testing
+   * http://n0p.net/penguicon/php_app_sec/mirror/xss.html - XSS cheatsheet
 
 ## Vulnerabilities
 
