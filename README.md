@@ -49,6 +49,7 @@ Table of Contents
    * https://github.com/espreto/wpsploit - WPSploit, Exploiting Wordpress With Metasploit
    * https://github.com/RUB-NDS/WS-Attacker - WS-Attacker is a modular framework for web services penetration testing
    * http://n0p.net/penguicon/php_app_sec/mirror/xss.html - XSS cheatsheet
+   * https://github.com/wpscanteam/wpscan - WPScan is a black box WordPress vulnerability scanner
 
 ## Vulnerabilities
 
