@@ -26,6 +26,7 @@ Table of Contents
    * http://www.amazon.com/Web-Application-Obfuscation-Evasion-Filters/dp/1597496049/ Web Application Obfuscation: '-/WAFs..Evasion..Filters//alert(/Obfuscation/)-'
    * http://www.amazon.com/XSS-Attacks-Scripting-Exploits-Defense/dp/1597491543/ XSS Attacks: Cross Site Scripting Exploits and Defense
    * http://www.amazon.com/Browser-Hackers-Handbook-Wade-Alcorn/dp/1118662091/ The Browser Hacker’s Handbook
+   * http://www.amazon.com/Basics-Web-Hacking-Techniques-Attack/dp/0124166008/ The Basics of Web Hacking: Tools and Techniques to Attack the Web
    * https://www.crypto101.io/ - Crypto 101 is an introductory course on cryptography
    * http://www.offensive-security.com/metasploit-unleashed/ - Metasploit Unleashed
    * http://www.cl.cam.ac.uk/~rja14/book.html - Security Engineering
