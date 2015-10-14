@@ -20,6 +20,7 @@ Table of Contents
 
    * http://www.amazon.com/The-Web-Application-Hackers-Handbook/dp/8126533404/ The Web Application Hacker’s Handbook: Finding and Exploiting Security Flaws
    * http://www.amazon.com/Hacking-Web-Apps-Preventing-Application/dp/159749951X/ Hacking Web Apps: Detecting and Preventing Web Application Security Problems
+   * http://www.amazon.com/Hacking-Exposed-Web-Applications-Third/dp/0071740643/ Hacking Exposed Web Applications
    * https://www.crypto101.io/ - Crypto 101 is an introductory course on cryptography
    * http://www.offensive-security.com/metasploit-unleashed/ - Metasploit Unleashed
    * http://www.cl.cam.ac.uk/~rja14/book.html - Security Engineering
