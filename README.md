@@ -74,6 +74,11 @@ Table of Contents
 
 ## Courses
 
+   * https://www.elearnsecurity.com/course/web_application_penetration_testing/ eLearnSecurity Web Application Penetration Testing
+   * https://www.elearnsecurity.com/course/web_application_penetration_testing_extreme/ eLearnSecurity Web Application Penetration Testing eXtreme
+   * https://www.offensive-security.com/information-security-training/advanced-web-attack-and-exploitation/ Offensive Security Advanced Web Attacks and Exploitation (live)
+   * https://www.sans.org/course/web-app-penetration-testing-ethical-hacking Sans SEC542: Web App Penetration Testing and Ethical Hacking
+   * https://www.sans.org/course/advanced-web-app-penetration-testing-ethical-hacking Sans  SEC642: Advanced Web App Penetration Testing and Ethical Hacking
    * http://opensecuritytraining.info/ - Open Security Training
    * http://securitytrainings.net/security-trainings/ - Security Exploded Training
    * http://www.cs.fsu.edu/~redwood/OffensiveComputerSecurity/ - FSU - Offensive Computer Security
