@@ -61,6 +61,44 @@ Table of Contents
    * https://github.com/RUB-NDS/WS-Attacker - WS-Attacker is a modular framework for web services penetration testing
    * http://n0p.net/penguicon/php_app_sec/mirror/xss.html - XSS cheatsheet
    * https://github.com/wpscanteam/wpscan - WPScan is a black box WordPress vulnerability scanner
+   * http://sourceforge.net/projects/paros/ Paros proxy
+   * https://www.owasp.org/index.php/Category:OWASP_WebScarab_Project Web Scarab proxy
+   * https://code.google.com/p/skipfish/ Skipfish, an active web application security reconnaissance tool
+   * http://www.acunetix.com/vulnerability-scanner/ Acunetix Web Vulnerability Scanner
+   * http://www-03.ibm.com/software/products/en/appscan IBM Security AppScan
+   * https://www.netsparker.com/web-vulnerability-scanner/ Netsparker web vulnerability scanner
+   * http://www8.hp.com/us/en/software-solutions/webinspect-dynamic-analysis-dast/index.html HP Web Inspect
+   * https://github.com/sensepost/wikto Wikto - Nikto for Windows with some extra features
+   * http://samurai.inguardians.com Samurai Web Testing Framework
+   * https://code.google.com/p/ratproxy/ Ratproxy
+   * http://www.websecurify.com Websecurify
+   * http://sourceforge.net/projects/grendel/ Grendel-scan
+   * https://www.owasp.org/index.php/Category:OWASP_DirBuster_Project DirBuster
+   * http://www.edge-security.com/wfuzz.php Wfuzz
+   * http://wapiti.sourceforge.net wapiti
+   * https://github.com/neuroo/grabber Grabber
+   * https://subgraph.com/vega/ Vega
+   * http://websecuritytool.codeplex.com Watcher passive web scanner
+   * http://xss.codeplex.com x5s XSS and Unicode transformations security testing assistant
+   * http://www.beyondsecurity.com/avds AVDS Vulnerability Assessment and Management
+   * https://buguroo.com bugBlast
+   * http://www.contrastsecurity.com Contrast
+   * http://www.gamasec.com/Gamascan.aspx GamaScan
+   * http://www.golismero.com Golismero
+   * https://www.trustwave.com/Products/Application-Security/App-Scanner-Family/ Trustwave App Scanner
+   * http://www.ikare-monitoring.com IKare
+   * https://www.indusface.com/index.php/products/indusguard-web IndusGuard Web
+   * http://www.nstalker.com N-Stalker X
+   * https://www.rapid7.com/products/nexpose/index.jsp Nexpose
+   * http://www.rapid7.com/products/appspider/ App Spider
+   * http://www.milescan.com ParosPro
+   * https://www.qualys.com/enterprises/qualysguard/web-application-scanning/ Qualys Web Application Scanning
+   * http://www.beyondtrust.com/Products/RetinaNetworkSecurityScanner/ Retina
+   * https://www.whitehatsec.com/offerings.html Sentinel
+   * http://www.tripwire.com/it-security-software/enterprise-vulnerability-management/web-application-vulnerability-scanning/ Tripwire Web App 360
+   * https://www.parasoft.com/product/soatest/ SOAtest
+   * https://www.trustwave.com/Services/SpiderLabs-Services/Vulnerability-Management/ Trustkeeper
+   * https://www.owasp.org/index.php/OWASP_Xenotix_XSS_Exploit_Framework Xenotix XSS Exploit Framework
 
 ## Vulnerabilities
 
@@ -78,8 +116,7 @@ Table of Contents
    * https://www.elearnsecurity.com/course/web_application_penetration_testing_extreme/ eLearnSecurity Web Application Penetration Testing eXtreme
    * https://www.offensive-security.com/information-security-training/advanced-web-attack-and-exploitation/ Offensive Security Advanced Web Attacks and Exploitation (live)
    * https://www.sans.org/course/web-app-penetration-testing-ethical-hacking Sans SEC542: Web App Penetration Testing and Ethical Hacking
-   * https://www.sans.org/course/advanced-web-app-penetration-testing-ethical-hacking Sans  SEC642: Advanced Web App Penetration Testing and Ethical Hacking
-   * http://opensecuritytraining.info/ - Open Security Training
+   * https://www.sans.org/course/advanced-web-app-penetration-testing-ethical-hacking Sans SEC642: Advanced Web App Penetration Testing and Ethical Hacking   * http://opensecuritytraining.info/ - Open Security Training
    * http://securitytrainings.net/security-trainings/ - Security Exploded Training
    * http://www.cs.fsu.edu/~redwood/OffensiveComputerSecurity/ - FSU - Offensive Computer Security
    * http://www.cs.fsu.edu/~lawrence/OffNetSec/ - FSU - Offensive Network Security
