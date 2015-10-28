@@ -131,6 +131,7 @@ Table of Contents
    * http://www.dvwa.co.uk/ - Damn Vulnerable Web Application (DVWA)
    * http://sourceforge.net/projects/lampsecurity/ - LAMPSecurity Training
    * https://github.com/Audi-1/sqli-labs - SQLI labs to test error based, Blind boolean based, Time based.
+   * https://hack.me/ - Build, host and share vulnerable web apps in a sandboxed environment for free
 
 ## Security Ruby on Rails
 
