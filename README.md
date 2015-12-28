@@ -14,6 +14,7 @@ Table of Contents
    * [Vulnerabilities](#vulnerabilities)
    * [Courses](#courses)
    * [Labs](#labs)
+   * [SSL](#ssl)
    * [Security Ruby on Rails](#security-ruby-on-rails)
 
 ## Books
@@ -132,6 +133,14 @@ Table of Contents
    * http://sourceforge.net/projects/lampsecurity/ - LAMPSecurity Training
    * https://github.com/Audi-1/sqli-labs - SQLI labs to test error based, Blind boolean based, Time based.
    * https://hack.me/ - Build, host and share vulnerable web apps in a sandboxed environment for free
+
+## SSL
+
+   * https://www.ssllabs.com/ssltest/index.html - This service performs a deep analysis of the configuration of any SSL web server on the public Internet.
+   * https://raymii.org/s/tutorials/Strong_SSL_Security_On_nginx.html - Strong SSL Security on nginx
+   * https://weakdh.org/ - Weak Diffie-Hellman and the Logjam Attack
+   * https://letsencrypt.org/ - Let’s Encrypt is a new Certificate Authority: It’s free, automated, and open.
+   * https://filippo.io/Heartbleed/ - A checker (site and tool) for CVE-2014-0160 (Heartbleed).
 
 ## Security Ruby on Rails
 
