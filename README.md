@@ -100,6 +100,7 @@ Table of Contents
    * https://www.parasoft.com/product/soatest/ SOAtest
    * https://www.trustwave.com/Services/SpiderLabs-Services/Vulnerability-Management/ Trustkeeper
    * https://www.owasp.org/index.php/OWASP_Xenotix_XSS_Exploit_Framework Xenotix XSS Exploit Framework
+   * https://github.com/future-architect/vuls Vulnerability scanner for Linux, agentless, written in golang.
 
 ## Vulnerabilities
 
