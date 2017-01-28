@@ -102,6 +102,8 @@ Table of Contents
    * https://www.trustwave.com/Services/SpiderLabs-Services/Vulnerability-Management/ Trustkeeper
    * https://www.owasp.org/index.php/OWASP_Xenotix_XSS_Exploit_Framework Xenotix XSS Exploit Framework
    * https://github.com/future-architect/vuls Vulnerability scanner for Linux, agentless, written in golang.
+   * https://github.com/rastating/wordpress-exploit-framework A Ruby framework for developing and using modules which aid in the penetration testing of WordPress powered websites and systems.
+   * http://www.xss-payloads.com/ XSS Payloads to leverage XSS vulnerabilities, build custom payloads, practice penetration testing skills.
 
 ## Docker images for Penetration Testing
 
@@ -152,6 +154,9 @@ Table of Contents
    * http://sourceforge.net/projects/lampsecurity/ - LAMPSecurity Training
    * https://github.com/Audi-1/sqli-labs - SQLI labs to test error based, Blind boolean based, Time based.
    * https://hack.me/ - Build, host and share vulnerable web apps in a sandboxed environment for free
+   * http://azcwr.org/az-cyber-warfare-ranges - Free live fire Capture the Flag, blue team, red team Cyber Warfare Range for beginners through advanced users. Must use a cell phone to send a text message requesting access to the range.
+
+
 
 ## SSL
 
