@@ -104,6 +104,7 @@ Table of Contents
    * https://github.com/future-architect/vuls Vulnerability scanner for Linux, agentless, written in golang.
    * https://github.com/rastating/wordpress-exploit-framework A Ruby framework for developing and using modules which aid in the penetration testing of WordPress powered websites and systems.
    * http://www.xss-payloads.com/ XSS Payloads to leverage XSS vulnerabilities, build custom payloads, practice penetration testing skills.
+   * https://github.com/joaomatosf/jexboss JBoss (and others Java Deserialization Vulnerabilities) verify and EXploitation Tool
 
 ## Docker images for Penetration Testing
 
