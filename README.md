@@ -106,6 +106,12 @@ Table of Contents
    * http://www.xss-payloads.com/ XSS Payloads to leverage XSS vulnerabilities, build custom payloads, practice penetration testing skills.
    * https://github.com/joaomatosf/jexboss JBoss (and others Java Deserialization Vulnerabilities) verify and EXploitation Tool
    * https://github.com/commixproject/commix Automated All-in-One OS command injection and exploitation tool
+   * https://github.com/pathetiq/BurpSmartBuster A Burp Suite content discovery plugin that add the smart into the Buster!
+   * https://github.com/GoSecure/csp-auditor Burp and ZAP plugin to analyze CSP headers
+   * https://github.com/ffleming/timing_attack Perform timing attacks against web applications
+   * https://github.com/lalithr95/fuzzapi Fuzzapi is a tool used for REST API pentesting
+   * https://github.com/owtf/owtf Offensive Web Testing Framework (OWTF)
+   * https://github.com/nccgroup/wssip Application for capturing, modifying and sending custom WebSocket data from client to server and vice versa.
    
 ## Docker images for Penetration Testing
 
