@@ -161,6 +161,7 @@ Table of Contents
    * http://www.dvwa.co.uk/ - Damn Vulnerable Web Application (DVWA)
    * http://sourceforge.net/projects/lampsecurity/ - LAMPSecurity Training
    * https://github.com/Audi-1/sqli-labs - SQLI labs to test error based, Blind boolean based, Time based.
+   * https://github.com/paralax/lfi-labs - small set of PHP scripts to practice exploiting LFI, RFI and CMD injection vulns
    * https://hack.me/ - Build, host and share vulnerable web apps in a sandboxed environment for free
    * http://azcwr.org/az-cyber-warfare-ranges - Free live fire Capture the Flag, blue team, red team Cyber Warfare Range for beginners through advanced users. Must use a cell phone to send a text message requesting access to the range.
 
