@@ -14,6 +14,7 @@ Table of Contents
    * [Docker](#docker-images-for-penetration-testing)
    * [Vulnerabilities](#vulnerabilities)
    * [Courses](#courses)
+   * [Online Hacking Demonstration Sites](#online-hacking-demonstration-sites)
    * [Labs](#labs)
    * [SSL](#ssl)
    * [Security Ruby on Rails](#security-ruby-on-rails)
@@ -151,6 +152,15 @@ Table of Contents
    * http://www.cs.fsu.edu/~redwood/OffensiveComputerSecurity/ - FSU - Offensive Computer Security
    * http://www.cs.fsu.edu/~lawrence/OffNetSec/ - FSU - Offensive Network Security
    * http://www.securitytube.net/ - World’s largest Infosec and Hacking Portal.
+
+## Online Hacking Demonstration Sites
+
+   * http://testasp.vulnweb.com/ - Acunetix ASP test and demonstration site
+   * http://testaspnet.vulnweb.com/ - Acunetix ASP.Net test and demonstration site 
+   * http://testphp.vulnweb.com/ - Acunetix PHP test and demonstration site
+   * http://crackme.cenzic.com/kelev/view/home.php - Crack Me Bank
+   * http://zero.webappsecurity.com/ - Zero Bank
+   * http://demo.testfire.net/ - Altoro Mutual 
 
 ## Labs
 
