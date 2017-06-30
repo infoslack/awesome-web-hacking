@@ -113,7 +113,8 @@ Table of Contents
    * https://github.com/lalithr95/fuzzapi Fuzzapi is a tool used for REST API pentesting
    * https://github.com/owtf/owtf Offensive Web Testing Framework (OWTF)
    * https://github.com/nccgroup/wssip Application for capturing, modifying and sending custom WebSocket data from client to server and vice versa.
-   
+   * http://www.mysql-password.com This MYSQL password() generator can be used to convert a password string into an encrypted mysql password().
+
 ## Docker images for Penetration Testing
 
    * `docker pull kalilinux/kali-linux-docker` [official Kali Linux](https://hub.docker.com/r/kalilinux/kali-linux-docker/)
@@ -140,7 +141,7 @@ Table of Contents
    * http://www.securityfocus.com/ - Since its inception in 1999, SecurityFocus has been a mainstay in the security community.
    * http://packetstormsecurity.com/ - Global Security Resource
    * https://wpvulndb.com/ - WPScan Vulnerability Database
- 
+
 ## Courses
 
    * https://www.elearnsecurity.com/course/web_application_penetration_testing/ eLearnSecurity Web Application Penetration Testing
@@ -156,11 +157,11 @@ Table of Contents
 ## Online Hacking Demonstration Sites
 
    * http://testasp.vulnweb.com/ - Acunetix ASP test and demonstration site
-   * http://testaspnet.vulnweb.com/ - Acunetix ASP.Net test and demonstration site 
+   * http://testaspnet.vulnweb.com/ - Acunetix ASP.Net test and demonstration site
    * http://testphp.vulnweb.com/ - Acunetix PHP test and demonstration site
    * http://crackme.cenzic.com/kelev/view/home.php - Crack Me Bank
    * http://zero.webappsecurity.com/ - Zero Bank
-   * http://demo.testfire.net/ - Altoro Mutual 
+   * http://demo.testfire.net/ - Altoro Mutual
 
 ## Labs
 
