@@ -113,6 +113,7 @@ Table of Contents
    * https://github.com/lalithr95/fuzzapi Fuzzapi is a tool used for REST API pentesting
    * https://github.com/owtf/owtf Offensive Web Testing Framework (OWTF)
    * https://github.com/nccgroup/wssip Application for capturing, modifying and sending custom WebSocket data from client to server and vice versa.
+   * http://www.mysql-password.com This MYSQL password() generator can be used to convert a password string into an encrypted mysql password().
    
 ## Cheat Sheets
 
@@ -148,7 +149,7 @@ Table of Contents
    * http://www.securityfocus.com/ - Since its inception in 1999, SecurityFocus has been a mainstay in the security community.
    * http://packetstormsecurity.com/ - Global Security Resource
    * https://wpvulndb.com/ - WPScan Vulnerability Database
- 
+
 ## Courses
 
    * https://www.elearnsecurity.com/course/web_application_penetration_testing/ eLearnSecurity Web Application Penetration Testing
@@ -164,11 +165,11 @@ Table of Contents
 ## Online Hacking Demonstration Sites
 
    * http://testasp.vulnweb.com/ - Acunetix ASP test and demonstration site
-   * http://testaspnet.vulnweb.com/ - Acunetix ASP.Net test and demonstration site 
+   * http://testaspnet.vulnweb.com/ - Acunetix ASP.Net test and demonstration site
    * http://testphp.vulnweb.com/ - Acunetix PHP test and demonstration site
    * http://crackme.cenzic.com/kelev/view/home.php - Crack Me Bank
    * http://zero.webappsecurity.com/ - Zero Bank
-   * http://demo.testfire.net/ - Altoro Mutual 
+   * http://demo.testfire.net/ - Altoro Mutual
 
 ## Labs
 
@@ -179,6 +180,7 @@ Table of Contents
    * http://www.dvwa.co.uk/ - Damn Vulnerable Web Application (DVWA)
    * http://sourceforge.net/projects/lampsecurity/ - LAMPSecurity Training
    * https://github.com/Audi-1/sqli-labs - SQLI labs to test error based, Blind boolean based, Time based.
+   * https://github.com/paralax/lfi-labs - small set of PHP scripts to practice exploiting LFI, RFI and CMD injection vulns
    * https://hack.me/ - Build, host and share vulnerable web apps in a sandboxed environment for free
    * http://azcwr.org/az-cyber-warfare-ranges - Free live fire Capture the Flag, blue team, red team Cyber Warfare Range for beginners through advanced users. Must use a cell phone to send a text message requesting access to the range.
 
