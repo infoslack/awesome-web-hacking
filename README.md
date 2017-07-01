@@ -11,6 +11,7 @@ Table of Contents
    * [Books](#books)
    * [Documentation](#documentation)
    * [Tools](#tools)
+   * [Cheat Sheets](#cheat-sheets)
    * [Docker](#docker-images-for-penetration-testing)
    * [Vulnerabilities](#vulnerabilities)
    * [Courses](#courses)
@@ -62,7 +63,6 @@ Table of Contents
    * http://w3af.org/ - w3af is a Web Application Attack and Audit Framework
    * https://github.com/espreto/wpsploit - WPSploit, Exploiting Wordpress With Metasploit
    * https://github.com/RUB-NDS/WS-Attacker - WS-Attacker is a modular framework for web services penetration testing
-   * http://n0p.net/penguicon/php_app_sec/mirror/xss.html - XSS cheatsheet
    * https://github.com/wpscanteam/wpscan - WPScan is a black box WordPress vulnerability scanner
    * http://sourceforge.net/projects/paros/ Paros proxy
    * https://www.owasp.org/index.php/Category:OWASP_WebScarab_Project Web Scarab proxy
@@ -113,6 +113,14 @@ Table of Contents
    * https://github.com/lalithr95/fuzzapi Fuzzapi is a tool used for REST API pentesting
    * https://github.com/owtf/owtf Offensive Web Testing Framework (OWTF)
    * https://github.com/nccgroup/wssip Application for capturing, modifying and sending custom WebSocket data from client to server and vice versa.
+   
+## Cheat Sheets
+
+   * http://n0p.net/penguicon/php_app_sec/mirror/xss.html - XSS cheatsheet
+   * https://highon.coffee/blog/lfi-cheat-sheet/ - LFI Cheat Sheet
+   * https://highon.coffee/blog/reverse-shell-cheat-sheet/ - Reverse Shell Cheat Sheet
+   * https://www.netsparker.com/blog/web-security/sql-injection-cheat-sheet/ - SQL Injection Cheat Sheet
+   * https://www.gracefulsecurity.com/path-traversal-cheat-sheet-windows/ - Path Traversal Cheat Sheet: Windows
    
 ## Docker images for Penetration Testing
 
