@@ -84,23 +84,14 @@ Table of Contents
    * http://websecuritytool.codeplex.com Watcher passive web scanner
    * http://xss.codeplex.com x5s XSS and Unicode transformations security testing assistant
    * http://www.beyondsecurity.com/avds AVDS Vulnerability Assessment and Management
-   * https://buguroo.com bugBlast
-   * http://www.contrastsecurity.com Contrast
-   * http://www.gamasec.com/Gamascan.aspx GamaScan
    * http://www.golismero.com Golismero
-   * https://www.trustwave.com/Products/Application-Security/App-Scanner-Family/ Trustwave App Scanner
    * http://www.ikare-monitoring.com IKare
-   * https://www.indusface.com/index.php/products/indusguard-web IndusGuard Web
    * http://www.nstalker.com N-Stalker X
    * https://www.rapid7.com/products/nexpose/index.jsp Nexpose
    * http://www.rapid7.com/products/appspider/ App Spider
    * http://www.milescan.com ParosPro
    * https://www.qualys.com/enterprises/qualysguard/web-application-scanning/ Qualys Web Application Scanning
    * http://www.beyondtrust.com/Products/RetinaNetworkSecurityScanner/ Retina
-   * https://www.whitehatsec.com/offerings.html Sentinel
-   * http://www.tripwire.com/it-security-software/enterprise-vulnerability-management/web-application-vulnerability-scanning/ Tripwire Web App 360
-   * https://www.parasoft.com/product/soatest/ SOAtest
-   * https://www.trustwave.com/Services/SpiderLabs-Services/Vulnerability-Management/ Trustkeeper
    * https://www.owasp.org/index.php/OWASP_Xenotix_XSS_Exploit_Framework Xenotix XSS Exploit Framework
    * https://github.com/future-architect/vuls Vulnerability scanner for Linux, agentless, written in golang.
    * https://github.com/rastating/wordpress-exploit-framework A Ruby framework for developing and using modules which aid in the penetration testing of WordPress powered websites and systems.
@@ -113,7 +104,6 @@ Table of Contents
    * https://github.com/lalithr95/fuzzapi Fuzzapi is a tool used for REST API pentesting
    * https://github.com/owtf/owtf Offensive Web Testing Framework (OWTF)
    * https://github.com/nccgroup/wssip Application for capturing, modifying and sending custom WebSocket data from client to server and vice versa.
-   * http://www.mysql-password.com This MYSQL password() generator can be used to convert a password string into an encrypted mysql password().
    
 ## Cheat Sheets
 
@@ -183,8 +173,6 @@ Table of Contents
    * https://github.com/paralax/lfi-labs - small set of PHP scripts to practice exploiting LFI, RFI and CMD injection vulns
    * https://hack.me/ - Build, host and share vulnerable web apps in a sandboxed environment for free
    * http://azcwr.org/az-cyber-warfare-ranges - Free live fire Capture the Flag, blue team, red team Cyber Warfare Range for beginners through advanced users. Must use a cell phone to send a text message requesting access to the range.
-
-
 
 ## SSL
 
