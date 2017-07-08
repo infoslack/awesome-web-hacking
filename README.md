@@ -173,6 +173,7 @@ Table of Contents
    * https://github.com/paralax/lfi-labs - small set of PHP scripts to practice exploiting LFI, RFI and CMD injection vulns
    * https://hack.me/ - Build, host and share vulnerable web apps in a sandboxed environment for free
    * http://azcwr.org/az-cyber-warfare-ranges - Free live fire Capture the Flag, blue team, red team Cyber Warfare Range for beginners through advanced users. Must use a cell phone to send a text message requesting access to the range.
+   * https://github.com/adamdoupe/WackoPicko - WackoPicko is a vulnerable web application used to test web application vulnerability scanners.
 
 ## SSL
 
