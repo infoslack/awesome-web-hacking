@@ -104,6 +104,7 @@ Table of Contents
    * https://github.com/lalithr95/fuzzapi Fuzzapi is a tool used for REST API pentesting
    * https://github.com/owtf/owtf Offensive Web Testing Framework (OWTF)
    * https://github.com/nccgroup/wssip Application for capturing, modifying and sending custom WebSocket data from client to server and vice versa.
+   * https://github.com/tijme/angularjs-csti-scanner Automated client-side template injection (sandbox escape/bypass) detection for AngularJS (ACSTIS).
    
 ## Cheat Sheets
 
