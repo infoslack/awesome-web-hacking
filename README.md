@@ -63,7 +63,8 @@ Table of Contents
    * https://github.com/beefproject/beef - The Browser Exploitation Framework Project
    * http://w3af.org/ - w3af is a Web Application Attack and Audit Framework
    * https://github.com/espreto/wpsploit - WPSploit, Exploiting Wordpress With Metasploit
-   * https://github.com/RUB-NDS/WS-Attacker - WS-Attacker is a modular framework for web services penetration testing
+   * https://github.com/WangYihang/Reverse-Shell-Manager - Reverse shell manager via terminal.
+   * https://github.com/RUB-NDS/WS-Attacker - WS-Attacker is a modular framework for web services penetration testing
    * https://github.com/wpscanteam/wpscan - WPScan is a black box WordPress vulnerability scanner
    * http://sourceforge.net/projects/paros/ Paros proxy
    * https://www.owasp.org/index.php/Category:OWASP_WebScarab_Project Web Scarab proxy
