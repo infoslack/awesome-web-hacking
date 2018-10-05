@@ -71,6 +71,7 @@ Table of Contents
    * https://www.owasp.org/index.php/Category:OWASP_WebScarab_Project Web Scarab proxy
    * https://code.google.com/p/skipfish/ Skipfish, an active web application security reconnaissance tool
    * http://www.acunetix.com/vulnerability-scanner/ Acunetix Web Vulnerability Scanner
+   * https://cystack.net/ CyStack Web Security Platform
    * http://www-03.ibm.com/software/products/en/appscan IBM Security AppScan
    * https://www.netsparker.com/web-vulnerability-scanner/ Netsparker web vulnerability scanner
    * http://www8.hp.com/us/en/software-solutions/webinspect-dynamic-analysis-dast/index.html HP Web Inspect
@@ -155,7 +156,8 @@ Table of Contents
    * http://www.cs.fsu.edu/~redwood/OffensiveComputerSecurity/ - FSU - Offensive Computer Security
    * http://www.cs.fsu.edu/~lawrence/OffNetSec/ - FSU - Offensive Network Security
    * http://www.securitytube.net/ - World’s largest Infosec and Hacking Portal.
-
+   * https://www.hacker101.com/ - Free class for web security by [Hackerone](https://www.hackerone.com)
+   
 ## Online Hacking Demonstration Sites
 
    * http://testasp.vulnweb.com/ - Acunetix ASP test and demonstration site
