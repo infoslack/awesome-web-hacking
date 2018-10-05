@@ -43,6 +43,7 @@ Table of Contents
    * https://www.owasp.org/ - Open Web Application Security Project
    * http://www.pentest-standard.org/ - Penetration Testing Execution Standard
    * http://www.binary-auditing.com/ - Dr. Thorsten Schneider’s Binary Auditing
+   * https://appsecwiki.com/ - Application Security Wiki is an initiative to provide all Application security related resources to Security Researchers and developers at one place. 
 
 ## Tools
 
