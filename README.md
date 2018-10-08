@@ -182,6 +182,7 @@ Table of Contents
    * https://github.com/adamdoupe/WackoPicko - WackoPicko is a vulnerable web application used to test web application vulnerability scanners.
    * https://github.com/rapid7/hackazon - Hackazon is a free, vulnerable test site that is an online storefront built with the same technologies used in today’s rich client and mobile applications.
    * https://github.com/RhinoSecurityLabs/cloudgoat - Rhino Security Labs' "Vulnerable by Design" AWS infrastructure setup tool
+   * https://www.hackthebox.eu/ - Hack The Box is an online platform allowing you to test and advance your skills in cyber security.
 
 
 ## SSL
