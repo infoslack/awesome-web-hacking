@@ -111,6 +111,8 @@ Table of Contents
    * https://github.com/nccgroup/wssip Application for capturing, modifying and sending custom WebSocket data from client to server and vice versa.
    * https://github.com/tijme/angularjs-csti-scanner Automated client-side template injection (sandbox escape/bypass) detection for AngularJS (ACSTIS).
    * https://reshift.softwaresecured.com A source code analysis tool for detecting and managing Java security vulnerabilities.
+   * https://encoding.tools Web app for transforming binary data and strings, including hashes and various encodings. GPLv3 offline version available.
+   * https://gchq.github.io/CyberChef/ A "Cyber Swiss Army Knife" for carrying out various encodings and transformations of binary data and strings.
    
 ## Cheat Sheets
 
