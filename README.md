@@ -115,6 +115,7 @@ Table of Contents
    * https://gchq.github.io/CyberChef/ A "Cyber Swiss Army Knife" for carrying out various encodings and transformations of binary data and strings.
    * https://github.com/urbanadventurer/WhatWeb WhatWeb - Next generation web scanner
    * https://www.shodan.io/ Shodan - The search engine for find vulnerable servers
+   * https://github.com/WangYihang/Webshell-Sniper A webshell manager via terminal
    
 ## Cheat Sheets
 
