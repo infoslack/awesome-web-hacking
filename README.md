@@ -113,6 +113,7 @@ Table of Contents
    * https://reshift.softwaresecured.com A source code analysis tool for detecting and managing Java security vulnerabilities.
    * https://encoding.tools Web app for transforming binary data and strings, including hashes and various encodings. GPLv3 offline version available.
    * https://gchq.github.io/CyberChef/ A "Cyber Swiss Army Knife" for carrying out various encodings and transformations of binary data and strings.
+   * https://github.com/urbanadventurer/WhatWeb WhatWeb - Next generation web scanner
    
 ## Cheat Sheets
 
