@@ -38,6 +38,8 @@ Table of Contents
    * http://www.offensive-security.com/metasploit-unleashed/ - Metasploit Unleashed
    * http://www.cl.cam.ac.uk/~rja14/book.html - Security Engineering
    * https://www.feistyduck.com/library/openssl-cookbook/ - OpenSSL Cookbook
+   * https://www.manning.com/books/real-world-cryptography - Learn and apply cryptographic techniques.
+
 
 ## Documentation
 
