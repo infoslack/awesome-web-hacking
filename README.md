@@ -84,6 +84,7 @@ Table of Contents
    * http://www.websecurify.com Websecurify
    * http://sourceforge.net/projects/grendel/ Grendel-scan
    * https://www.owasp.org/index.php/Category:OWASP_DirBuster_Project DirBuster
+   * https://tools.kali.org/web-applications/gobuster Directory/file and DNS busting tool written in Go
    * http://www.edge-security.com/wfuzz.php Wfuzz
    * http://wapiti.sourceforge.net wapiti
    * https://github.com/neuroo/grabber Grabber
