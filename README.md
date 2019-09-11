@@ -51,6 +51,8 @@ Table of Contents
 ## Tools
 
    * http://www.metasploit.com/ - World's most used penetration testing software
+   * https://findsubdomains.com - Online subdomains scanner service with lots of additional data. works using OSINT.
+   * https://github.com/bjeborn/basic-auth-pot HTTP Basic Authentication honeyPot.
    * http://www.arachni-scanner.com/ - Web Application Security Scanner Framework
    * https://github.com/sullo/nikto - Nikto web server scanner
    * http://www.tenable.com/products/nessus-vulnerability-scanner - Nessus Vulnerability Scanner
@@ -198,6 +200,7 @@ Table of Contents
 ## SSL
 
    * https://www.ssllabs.com/ssltest/index.html - This service performs a deep analysis of the configuration of any SSL web server on the public Internet.
+   * http://certdb.com/ - SSL/TLS data provider service. Collect the data about digital certificates - issuers, organisation, whois, expiration dates, etc... Plus, has handy filters for convenience. 
    * https://raymii.org/s/tutorials/Strong_SSL_Security_On_nginx.html - Strong SSL Security on nginx
    * https://weakdh.org/ - Weak Diffie-Hellman and the Logjam Attack
    * https://letsencrypt.org/ - Let’s Encrypt is a new Certificate Authority: It’s free, automated, and open.
