@@ -106,21 +106,23 @@ Table of Contents
    * https://github.com/future-architect/vuls Vulnerability scanner for Linux, agentless, written in golang.
    * https://github.com/rastating/wordpress-exploit-framework A Ruby framework for developing and using modules which aid in the penetration testing of WordPress powered websites and systems.
    * http://www.xss-payloads.com/ XSS Payloads to leverage XSS vulnerabilities, build custom payloads, practice penetration testing skills.
-   * https://github.com/joaomatosf/jexboss JBoss (and others Java Deserialization Vulnerabilities) verify and EXploitation Tool
-   * https://github.com/commixproject/commix Automated All-in-One OS command injection and exploitation tool
-   * https://github.com/pathetiq/BurpSmartBuster A Burp Suite content discovery plugin that add the smart into the Buster!
-   * https://github.com/GoSecure/csp-auditor Burp and ZAP plugin to analyze CSP headers
-   * https://github.com/ffleming/timing_attack Perform timing attacks against web applications
-   * https://github.com/lalithr95/fuzzapi Fuzzapi is a tool used for REST API pentesting
-   * https://github.com/owtf/owtf Offensive Web Testing Framework (OWTF)
-   * https://github.com/nccgroup/wssip Application for capturing, modifying and sending custom WebSocket data from client to server and vice versa.
-   * https://github.com/tijme/angularjs-csti-scanner Automated client-side template injection (sandbox escape/bypass) detection for AngularJS (ACSTIS).
-   * https://reshift.softwaresecured.com A source code analysis tool for detecting and managing Java security vulnerabilities.
-   * https://encoding.tools Web app for transforming binary data and strings, including hashes and various encodings. GPLv3 offline version available.
-   * https://gchq.github.io/CyberChef/ A "Cyber Swiss Army Knife" for carrying out various encodings and transformations of binary data and strings.
-   * https://github.com/urbanadventurer/WhatWeb WhatWeb - Next generation web scanner
-   * https://www.shodan.io/ Shodan - The search engine for find vulnerable servers
-   * https://github.com/WangYihang/Webshell-Sniper A webshell manager via terminal
+    * https://github.com/joaomatosf/jexboss JBoss (and others Java Deserialization Vulnerabilities) verify and EXploitation Tool
+    * https://github.com/commixproject/commix Automated All-in-One OS command injection and exploitation tool
+    * https://github.com/pathetiq/BurpSmartBuster A Burp Suite content discovery plugin that add the smart into the Buster!
+    * https://github.com/GoSecure/csp-auditor Burp and ZAP plugin to analyze CSP headers
+    * https://github.com/ffleming/timing_attack Perform timing attacks against web applications
+    * https://github.com/lalithr95/fuzzapi Fuzzapi is a tool used for REST API pentesting
+    * https://github.com/owtf/owtf Offensive Web Testing Framework (OWTF)
+    * https://github.com/nccgroup/wssip Application for capturing, modifying and sending custom WebSocket data from client to server and vice versa.
+    * https://github.com/tijme/angularjs-csti-scanner Automated client-side template injection (sandbox escape/bypass) detection for AngularJS (ACSTIS).
+    * https://reshift.softwaresecured.com A source code analysis tool for detecting and managing Java security vulnerabilities.
+    * https://encoding.tools Web app for transforming binary data and strings, including hashes and various encodings. GPLv3 offline version available.
+    * https://gchq.github.io/CyberChef/ A "Cyber Swiss Army Knife" for carrying out various encodings and transformations of binary data and strings.
+    * https://github.com/urbanadventurer/WhatWeb WhatWeb - Next generation web scanner
+    * https://www.shodan.io/ Shodan - The search engine for find vulnerable servers
+    * https://github.com/WangYihang/Webshell-Sniper A webshell manager via terminal
+    * https://github.com/m4ll0k/Galileo.git - Web Application Audit Framework
+    *https://github.com/UltralegendSam-Fs/hashcat.git_World's fastest and most advanced password recovery utility
    
 ## Cheat Sheets
 
