@@ -50,6 +50,7 @@ Table of Contents
 
 ## Tools
 
+   * https://spyse.com/ - OSINT search engine that provides fresh data about the entire web, storing all data in its own DB, interconnect finding data and has some cool features. 
    * http://www.metasploit.com/ - World's most used penetration testing software
    * https://findsubdomains.com - Online subdomains scanner service with lots of additional data. works using OSINT.
    * https://github.com/bjeborn/basic-auth-pot HTTP Basic Authentication honeyPot.
