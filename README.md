@@ -206,7 +206,8 @@ Table of Contents
    * https://weakdh.org/ - Weak Diffie-Hellman and the Logjam Attack
    * https://letsencrypt.org/ - Let’s Encrypt is a new Certificate Authority: It’s free, automated, and open.
    * https://filippo.io/Heartbleed/ - A checker (site and tool) for CVE-2014-0160 (Heartbleed).
-
+   * https://testssl.sh/ - A command line tool which checks a website's TLS/SSL ciphers, protocols and cryptographic flaws.
+   
 ## Security Ruby on Rails
 
    * http://brakemanscanner.org/ - A static analysis security vulnerability scanner for Ruby on Rails applications.
