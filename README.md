@@ -122,6 +122,7 @@ Table of Contents
    * https://github.com/urbanadventurer/WhatWeb WhatWeb - Next generation web scanner
    * https://www.shodan.io/ Shodan - The search engine for find vulnerable servers
    * https://github.com/WangYihang/Webshell-Sniper A webshell manager via terminal
+   * https://github.com/nil0x42/phpsploit PhpSploit - Full-featured C2 framework which silently persists on webserver via evil PHP oneliner
    
 ## Cheat Sheets
 
