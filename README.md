@@ -123,6 +123,7 @@ Table of Contents
    * https://www.shodan.io/ Shodan - The search engine for find vulnerable servers
    * https://github.com/WangYihang/Webshell-Sniper A webshell manager via terminal
    * https://github.com/nil0x42/phpsploit PhpSploit - Full-featured C2 framework which silently persists on webserver via evil PHP oneliner
+   * https://github.com/HightechSec/git-scanner git-scanner - A tool for bug hunting or pentesting for targeting websites that have open `.git` repositories available in public
    
 ## Cheat Sheets
 
@@ -198,6 +199,7 @@ Table of Contents
    * https://github.com/rapid7/hackazon - Hackazon is a free, vulnerable test site that is an online storefront built with the same technologies used in today’s rich client and mobile applications.
    * https://github.com/RhinoSecurityLabs/cloudgoat - Rhino Security Labs' "Vulnerable by Design" AWS infrastructure setup tool
    * https://www.hackthebox.eu/ - Hack The Box is an online platform allowing you to test and advance your skills in cyber security.
+   * https://github.com/tegal1337/0l4bs - 0l4bs is a Cross-site scripting labs for web application security enthusiasts.
 
 
 ## SSL
