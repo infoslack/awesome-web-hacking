@@ -199,6 +199,7 @@ Table of Contents
    * https://github.com/RhinoSecurityLabs/cloudgoat - Rhino Security Labs' "Vulnerable by Design" AWS infrastructure setup tool
    * https://www.hackthebox.eu/ - Hack The Box is an online platform allowing you to test and advance your skills in cyber security.
    * https://github.com/tegal1337/0l4bs - 0l4bs is a Cross-site scripting labs for web application security enthusiasts.
+   * https://github.com/oliverwiegers/pentest_lab - Local pentest lab leveraging docker compose.
 
 
 ## SSL
