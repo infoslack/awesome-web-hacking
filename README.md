@@ -122,6 +122,7 @@ Table of Contents
    * https://www.shodan.io/ Shodan - The search engine for find vulnerable servers
    * https://github.com/WangYihang/Webshell-Sniper A webshell manager via terminal
    * https://github.com/nil0x42/phpsploit PhpSploit - Full-featured C2 framework which silently persists on webserver via evil PHP oneliner
+   * https://webhint.io/ - webhint - webhint is a customizable linting tool that helps you improve your site's accessibility, speed, cross-browser compatibility, and more by checking your code for best practices and common errors.
    * https://github.com/HightechSec/git-scanner git-scanner - A tool for bug hunting or pentesting for targeting websites that have open `.git` repositories available in public
 
 ## Cheat Sheets
@@ -151,6 +152,7 @@ Table of Contents
    * `docker pull danmx/docker-owasp-webgoat` - [OWASP WebGoat Project docker image](https://hub.docker.com/r/webgoat/goatandwolf)
    * `docker pull citizenstig/nowasp` - [OWASP Mutillidae II Web Pen-Test Practice Application](https://hub.docker.com/r/citizenstig/nowasp/)
    * `docker pull aaaguirre/pentest` - [Docker for pentest](https://github.com/aaaguirrep/pentest)
+   * `docker pull rustscan/rustscan:2.0.0` - [The Modern Port Scanner](https://github.com/RustScan/RustScan)
 
 ## Vulnerabilities
 
@@ -161,6 +163,7 @@ Table of Contents
    * http://www.securityfocus.com/ - Since its inception in 1999, SecurityFocus has been a mainstay in the security community.
    * http://packetstormsecurity.com/ - Global Security Resource
    * https://wpvulndb.com/ - WPScan Vulnerability Database
+   * https://snyk.io/vuln/ - Vulnerability DB, Detailed information and remediation guidance for known vulnerabilities.
 
 ## Courses
 
@@ -183,6 +186,8 @@ Table of Contents
    * http://crackme.cenzic.com/kelev/view/home.php - Crack Me Bank
    * http://zero.webappsecurity.com/ - Zero Bank
    * http://demo.testfire.net/ - Altoro Mutual
+   * https://public-firing-range.appspot.com/ - Firing Range, otomatik web uygulaması güvenlik tarayıcıları için bir test ortamıdır.
+   * https://xss-game.appspot.com/ - XSS challenge
 
 ## Labs
    * https://portswigger.net/web-security - Web Security Academy: Free Online Training from PortSwigger
