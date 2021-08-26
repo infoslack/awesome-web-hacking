@@ -186,7 +186,7 @@ Table of Contents
    * http://crackme.cenzic.com/kelev/view/home.php - Crack Me Bank
    * http://zero.webappsecurity.com/ - Zero Bank
    * http://demo.testfire.net/ - Altoro Mutual
-   * https://public-firing-range.appspot.com/ - Firing Range, otomatik web uygulaması güvenlik tarayıcıları için bir test ortamıdır.
+   * https://public-firing-range.appspot.com/ - Firing Range is a test bed for automated web application security scanners.
    * https://xss-game.appspot.com/ - XSS challenge
 
 ## Labs
