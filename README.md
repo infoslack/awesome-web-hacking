@@ -122,6 +122,8 @@ Table of Contents
    * https://www.shodan.io/ Shodan - The search engine for find vulnerable servers
    * https://github.com/WangYihang/Webshell-Sniper A webshell manager via terminal
    * https://github.com/nil0x42/phpsploit PhpSploit - Full-featured C2 framework which silently persists on webserver via evil PHP oneliner
+   * https://webhint.io/ - webhint - webhint is a customizable linting tool that helps you improve your site's accessibility, speed, cross-browser compatibility, and more by checking your code for best practices and common errors.
+   * https://gtfobins.github.io/ - gtfobins - GTFOBins is a curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems.
    * https://github.com/HightechSec/git-scanner git-scanner - A tool for bug hunting or pentesting for targeting websites that have open `.git` repositories available in public
 
 ## Cheat Sheets
@@ -151,6 +153,7 @@ Table of Contents
    * `docker pull danmx/docker-owasp-webgoat` - [OWASP WebGoat Project docker image](https://hub.docker.com/r/webgoat/goatandwolf)
    * `docker pull citizenstig/nowasp` - [OWASP Mutillidae II Web Pen-Test Practice Application](https://hub.docker.com/r/citizenstig/nowasp/)
    * `docker pull aaaguirre/pentest` - [Docker for pentest](https://github.com/aaaguirrep/pentest)
+   * `docker pull rustscan/rustscan:2.0.0` - [The Modern Port Scanner](https://github.com/RustScan/RustScan)
 
 ## Vulnerabilities
 
@@ -161,6 +164,7 @@ Table of Contents
    * http://www.securityfocus.com/ - Since its inception in 1999, SecurityFocus has been a mainstay in the security community.
    * http://packetstormsecurity.com/ - Global Security Resource
    * https://wpvulndb.com/ - WPScan Vulnerability Database
+   * https://snyk.io/vuln/ - Vulnerability DB, Detailed information and remediation guidance for known vulnerabilities.
 
 ## Courses
 
@@ -168,7 +172,8 @@ Table of Contents
    * https://www.elearnsecurity.com/course/web_application_penetration_testing_extreme/ eLearnSecurity Web Application Penetration Testing eXtreme
    * https://www.offensive-security.com/information-security-training/advanced-web-attack-and-exploitation/ Offensive Security Advanced Web Attacks and Exploitation (live)
    * https://www.sans.org/course/web-app-penetration-testing-ethical-hacking Sans SEC542: Web App Penetration Testing and Ethical Hacking
-   * https://www.sans.org/course/advanced-web-app-penetration-testing-ethical-hacking Sans SEC642: Advanced Web App Penetration Testing and Ethical Hacking   * http://opensecuritytraining.info/ - Open Security Training
+   * https://www.sans.org/course/advanced-web-app-penetration-testing-ethical-hacking Sans SEC642: Advanced Web App Penetration Testing and Ethical Hacking   
+   * http://opensecuritytraining.info/ - Open Security Training
    * http://securitytrainings.net/security-trainings/ - Security Exploded Training
    * http://www.cs.fsu.edu/~redwood/OffensiveComputerSecurity/ - FSU - Offensive Computer Security
    * http://www.cs.fsu.edu/~lawrence/OffNetSec/ - FSU - Offensive Network Security
@@ -183,6 +188,8 @@ Table of Contents
    * http://crackme.cenzic.com/kelev/view/home.php - Crack Me Bank
    * http://zero.webappsecurity.com/ - Zero Bank
    * http://demo.testfire.net/ - Altoro Mutual
+   * https://public-firing-range.appspot.com/ - Firing Range is a test bed for automated web application security scanners.
+   * https://xss-game.appspot.com/ - XSS challenge
 
 ## Labs
    * https://portswigger.net/web-security - Web Security Academy: Free Online Training from PortSwigger
