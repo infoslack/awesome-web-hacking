@@ -39,6 +39,7 @@ Table of Contents
    * http://www.cl.cam.ac.uk/~rja14/book.html - Security Engineering
    * https://www.feistyduck.com/library/openssl-cookbook/ - OpenSSL Cookbook
    * https://www.manning.com/books/real-world-cryptography - Learn and apply cryptographic techniques.
+   * https://www.manning.com/books/making-sense-of-cyber-security - A guide to the key concepts, terminology, and technologies of cybersecurity perfect for anyone planning or implementing a security strategy.
 
 
 ## Documentation
