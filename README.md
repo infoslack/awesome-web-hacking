@@ -190,6 +190,7 @@ Table of Contents
    * http://demo.testfire.net/ - Altoro Mutual
    * https://public-firing-range.appspot.com/ - Firing Range is a test bed for automated web application security scanners.
    * https://xss-game.appspot.com/ - XSS challenge
+   * https://google-gruyere.appspot.com/ Google Gruyere, web application exploits and defenses
 
 ## Labs
    * https://portswigger.net/web-security - Web Security Academy: Free Online Training from PortSwigger
