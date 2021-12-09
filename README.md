@@ -177,8 +177,6 @@ Table of Contents
    * https://www.sans.org/course/advanced-web-app-penetration-testing-ethical-hacking Sans SEC642: Advanced Web App Penetration Testing and Ethical Hacking   
    * http://opensecuritytraining.info/ - Open Security Training
    * http://securitytrainings.net/security-trainings/ - Security Exploded Training
-   * http://www.cs.fsu.edu/~redwood/OffensiveComputerSecurity/ - FSU - Offensive Computer Security
-   * http://www.cs.fsu.edu/~lawrence/OffNetSec/ - FSU - Offensive Network Security
    * http://www.securitytube.net/ - World’s largest Infosec and Hacking Portal.
    * https://www.hacker101.com/ - Free class for web security by [Hackerone](https://www.hackerone.com)
 
