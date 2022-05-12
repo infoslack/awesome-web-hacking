@@ -42,6 +42,7 @@ Table of Contents
    * https://www.manning.com/books/making-sense-of-cyber-security - A guide to the key concepts, terminology, and technologies of cybersecurity perfect for anyone planning or implementing a security strategy.
    * https://www.manning.com/books/cyber-security-career-guide - Kickstart a career in cyber security by learning how to adapt your existing technical and non-technical skills.
    * https://www.manning.com/books/secret-key-cryptography - A book about cryptographic techniques and Secret Key methods.
+   * https://www.manning.com/books/application-security-program-handbook - This practical book is a one-stop guide to implementing a robust application security program.
 
 
 ## Documentation
