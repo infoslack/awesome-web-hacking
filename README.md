@@ -130,7 +130,8 @@ Table of Contents
    * https://webhint.io/ - webhint - webhint is a customizable linting tool that helps you improve your site's accessibility, speed, cross-browser compatibility, and more by checking your code for best practices and common errors.
    * https://gtfobins.github.io/ - gtfobins - GTFOBins is a curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems.
    * https://github.com/HightechSec/git-scanner git-scanner - A tool for bug hunting or pentesting for targeting websites that have open `.git` repositories available in public
-   * [Web Application Exploitation @ Rawsec Inventory](https://inventory.raw.pm/tools.html#title-tools-web-application-exploitation) - Complete list of Web pentesting tools
+   * [Web Application Exploitation @ Rawsec Inventory](https://inventory.raw.pm/tools.html#title-tools-web-application-exploitation) - Complete list of Web pentesting tools  
+   * [Cyclops is a novel browser that can detect vulnerability automatically](https://github.com/v8blink/Chromium-based-XSS-Taint-Tracking/) - Cyclops is a web browser with XSS detection feature  
 
 ## Cheat Sheets
 
