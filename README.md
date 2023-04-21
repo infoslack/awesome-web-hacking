@@ -44,6 +44,8 @@ Table of Contents
    * https://www.manning.com/books/secret-key-cryptography - A book about cryptographic techniques and Secret Key methods.
    * https://www.manning.com/books/application-security-program-handbook - This practical book is a one-stop guide to implementing a robust application security program.
    * https://www.manning.com/books/cyber-threat-hunting - Practical guide to cyber threat hunting.
+   * https://nostarch.com/bug-bounty-bootcamp - Bug Bounty Bootcamp
+   * https://nostarch.com/hacking-apis - Hacking APIs
 
 
 ## Documentation
@@ -133,6 +135,9 @@ Table of Contents
    * https://github.com/HightechSec/git-scanner git-scanner - A tool for bug hunting or pentesting for targeting websites that have open `.git` repositories available in public
    * [Web Application Exploitation @ Rawsec Inventory](https://inventory.raw.pm/tools.html#title-tools-web-application-exploitation) - Complete list of Web pentesting tools  
    * [Cyclops is a novel browser that can detect vulnerability automatically](https://github.com/v8blink/Chromium-based-XSS-Taint-Tracking/) - Cyclops is a web browser with XSS detection feature  
+   * https://caido.io/ - Web proxy
+   * https://github.com/assetnote/kiterunner - API discovery
+   * https://github.com/owasp-amass/amass - domain recon
 
 ## Cheat Sheets
 
@@ -198,6 +203,7 @@ Table of Contents
    * https://public-firing-range.appspot.com/ - Firing Range is a test bed for automated web application security scanners.
    * https://xss-game.appspot.com/ - XSS challenge
    * https://google-gruyere.appspot.com/ Google Gruyere, web application exploits and defenses
+   * https://ginandjuice.shop/catalog
 
 ## Labs
    * https://portswigger.net/web-security - Web Security Academy: Free Online Training from PortSwigger
@@ -217,7 +223,8 @@ Table of Contents
    * https://www.hackthebox.eu/ - Hack The Box is an online platform allowing you to test and advance your skills in cyber security.
    * https://github.com/tegal1337/0l4bs - 0l4bs is a Cross-site scripting labs for web application security enthusiasts.
    * https://github.com/oliverwiegers/pentest_lab - Local pentest lab leveraging docker compose.
-
+   * https://ginandjuice.shop/catalog
+   * https://github.com/dolevf/Damn-Vulnerable-GraphQL-Application
 
 ## SSL
 
