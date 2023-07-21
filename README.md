@@ -138,6 +138,7 @@ Table of Contents
    * https://caido.io/ - Web proxy
    * https://github.com/assetnote/kiterunner - API discovery
    * https://github.com/owasp-amass/amass - domain recon
+   * [https://columbus.elmasy.com/](https://columbus.elmasy.com/) - Columbus Project is an advanced subdomain discovery service with fast, powerful and easy to use API.
 
 ## Cheat Sheets
 
