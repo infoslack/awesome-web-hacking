@@ -204,7 +204,7 @@ Table of Contents
    * https://xss-game.appspot.com/ - XSS challenge
    * https://google-gruyere.appspot.com/ Google Gruyere, web application exploits and defenses
    * https://ginandjuice.shop/catalog
-   * https://pentest-ground.com/ Pentesting ground with cves by Pentest-Tools.com
+   * https://pentest-ground.com/ Pentest Ground is a free playground with deliberately vulnerable web applications and network services.
 
 ## Labs
    * https://portswigger.net/web-security - Web Security Academy: Free Online Training from PortSwigger
