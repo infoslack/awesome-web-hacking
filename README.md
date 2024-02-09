@@ -46,6 +46,7 @@ Table of Contents
    * https://www.manning.com/books/cyber-threat-hunting - Practical guide to cyber threat hunting.
    * https://nostarch.com/bug-bounty-bootcamp - Bug Bounty Bootcamp
    * https://nostarch.com/hacking-apis - Hacking APIs
+   * https://www.manning.com/books/grokking-web-application-security - A book about building web apps that are ready for and resilient to any attack.
 
 
 ## Documentation
