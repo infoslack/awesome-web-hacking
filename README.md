@@ -72,15 +72,15 @@ Table of Contents
    * https://www.owasp.org/index.php/Category:OWASP_DirBuster_Project - Is a multi threaded java application designed to brute force directories and files names on web/application servers.
    * https://www.owasp.org/index.php/ZAP - The Zed Attack Proxy is an easy to use integrated penetration testing tool for finding vulnerabilities in web applications.
    * https://github.com/tecknicaltom/dsniff - dsniff is a collection of tools for network auditing and penetration testing.
-   * https://github.com/WangYihang/Webshell-Sniper - Manage your webshell via terminal.
-   * https://github.com/DanMcInerney/dnsspoof - DNS spoofer. Drops DNS responses from the router and replaces it with the spoofed DNS response
+   * https://github.com/WangYihang/Webshell-Sniper - Manage your webshell via terminal.
+   * https://github.com/DanMcInerney/dnsspoof - DNS spoofer. Drops DNS responses from the router and replaces it with the spoofed DNS response
    * https://github.com/trustedsec/social-engineer-toolkit - The Social-Engineer Toolkit (SET) repository from TrustedSec
    * https://github.com/sqlmapproject/sqlmap - Automatic SQL injection and database takeover tool
    * https://github.com/beefproject/beef - The Browser Exploitation Framework Project
    * http://w3af.org/ - w3af is a Web Application Attack and Audit Framework
    * https://github.com/espreto/wpsploit - WPSploit, Exploiting Wordpress With Metasploit
-   * https://github.com/WangYihang/Reverse-Shell-Manager - Reverse shell manager via terminal.
-   * https://github.com/RUB-NDS/WS-Attacker - WS-Attacker is a modular framework for web services penetration testing
+   * https://github.com/WangYihang/Reverse-Shell-Manager - Reverse shell manager via terminal.
+   * https://github.com/RUB-NDS/WS-Attacker - WS-Attacker is a modular framework for web services penetration testing
    * https://github.com/wpscanteam/wpscan - WPScan is a black box WordPress vulnerability scanner
    * http://sourceforge.net/projects/paros/ Paros proxy
    * https://www.owasp.org/index.php/Category:OWASP_WebScarab_Project Web Scarab proxy
@@ -192,6 +192,7 @@ Table of Contents
    * http://securitytrainings.net/security-trainings/ - Security Exploded Training
    * http://www.securitytube.net/ - World’s largest Infosec and Hacking Portal.
    * https://www.hacker101.com/ - Free class for web security by [Hackerone](https://www.hackerone.com)
+   * https://www.darkrelay.com/courses/professional-penetration-tester - Zero-Hero style Pentesting course by [DarkRelay Security Labs](https://www.darkrelay.com)
 
 ## Online Hacking Demonstration Sites
 
