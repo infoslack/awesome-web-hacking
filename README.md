@@ -207,6 +207,7 @@ Table of Contents
    * https://xss-game.appspot.com/ - XSS challenge
    * https://google-gruyere.appspot.com/ Google Gruyere, web application exploits and defenses
    * https://ginandjuice.shop/catalog
+   * [HackSimulator](https://chatgpt.com/g/g-jnT7HlNeK-hacksimulator) is a GPT created by [MarkCyber](https://github.com/MarkCyber)
    * https://pentest-ground.com/ Pentest-Ground is a free playground with deliberately vulnerable web applications and network services.
 
 ## Labs
