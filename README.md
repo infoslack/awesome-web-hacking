@@ -207,7 +207,7 @@ Table of Contents
    * https://xss-game.appspot.com/ - XSS challenge
    * https://google-gruyere.appspot.com/ Google Gruyere, web application exploits and defenses
    * https://ginandjuice.shop/catalog
-   * [HackSimulator](https://chatgpt.com/g/g-jnT7HlNeK-hacksimulator) is a GPT created by [MarkCyber](https://github.com/MarkCyber)
+   * [HackSimulator](https://chatgpt.com/g/g-jnT7HlNeK-hacksimulator) is a GPT created by [MarkCyber](https://github.com/MarkCyber) in which chatGPT acts as a hacking CTF. This GPT will ask for your experience level and what you would like to improve on, before simulating a machine/application for you to hack into, using the chatbox as the place to input terminal commands. Since this is through AI, it changes and adjust based on your experience level and you can ask for help if you are stuck.
    * https://pentest-ground.com/ Pentest-Ground is a free playground with deliberately vulnerable web applications and network services.
 
 ## Labs
