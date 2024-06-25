@@ -183,6 +183,7 @@ Table of Contents
    * http://packetstormsecurity.com/ - Global Security Resource
    * https://wpvulndb.com/ - WPScan Vulnerability Database
    * https://snyk.io/vuln/ - Vulnerability DB, Detailed information and remediation guidance for known vulnerabilities.
+   * https://stellastra.com/cipher-suite - Database of hundreds of TLS cipher suites and their security status.
 
 ## Courses
 
