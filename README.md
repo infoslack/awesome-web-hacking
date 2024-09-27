@@ -142,6 +142,7 @@ Table of Contents
    * https://github.com/owasp-amass/amass - domain recon
    * [https://columbus.elmasy.com/](https://columbus.elmasy.com/) - Columbus Project is an advanced subdomain discovery service with fast, powerful and easy to use API.
    * [BadUSB Script To Exfiltrate Passwords](https://github.com/MarkCyber/BadUSB/blob/main/HackStuff/CredentialHarvester.txt) - Extracts all saved passwords from Chrome, Firefox, and Edge to be saved onto secondary USB for further analysis.
+   * https://github.com/flibustier/jwt-online-cracker - Brute-force HS256, HS384 or HS512 JWT Token from your browser (fully client-side).
 
 ## Cheat Sheets
 
