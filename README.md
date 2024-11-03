@@ -232,6 +232,7 @@ Table of Contents
    * https://github.com/oliverwiegers/pentest_lab - Local pentest lab leveraging docker compose.
    * https://ginandjuice.shop/catalog
    * https://github.com/dolevf/Damn-Vulnerable-GraphQL-Application
+   * https://labex.io/skilltrees/cybersecurity - LabEx is an online platform for enhancing your cyber security skills through hands-on labs.
 
 ## SSL
 
