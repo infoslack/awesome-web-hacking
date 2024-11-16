@@ -233,6 +233,7 @@ Table of Contents
    * https://ginandjuice.shop/catalog
    * https://github.com/dolevf/Damn-Vulnerable-GraphQL-Application
    * https://labex.io/skilltrees/cybersecurity - LabEx is an online platform for enhancing your cyber security skills through hands-on labs.
+   * https://pythoncyber.go.ro - CyberPython helps you to make your own research in order to solve challenges, exploit CVEs and make good scripts.
 
 ## SSL
 
