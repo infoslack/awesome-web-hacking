@@ -188,6 +188,7 @@ Table of Contents
 
 ## Courses
 
+   * https://pwn.guide/ - Cybersecurity learning platform, with about 100 tutorials, approximately 25 of them are about web hacking & defending websites.
    * https://www.offensive-security.com/information-security-training/advanced-web-attack-and-exploitation/ Offensive Security Advanced Web Attacks and Exploitation (live)
    * https://www.sans.org/course/web-app-penetration-testing-ethical-hacking Sans SEC542: Web App Penetration Testing and Ethical Hacking
    * https://www.sans.org/course/advanced-web-app-penetration-testing-ethical-hacking Sans SEC642: Advanced Web App Penetration Testing and Ethical Hacking   
