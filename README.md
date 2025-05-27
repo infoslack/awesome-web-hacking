@@ -79,6 +79,7 @@ Table of Contents
    * https://github.com/beefproject/beef - The Browser Exploitation Framework Project
    * http://w3af.org/ - w3af is a Web Application Attack and Audit Framework
    * https://github.com/espreto/wpsploit - WPSploit, Exploiting Wordpress With Metasploit
+   * https://vulert.com/ - Vulert secures software by detecting vulnerabilities in open-source dependencies—without accessing your code. It supports Js, PHP, Java, Python, and more.
    * https://github.com/WangYihang/Reverse-Shell-Manager - Reverse shell manager via terminal.
    * https://github.com/RUB-NDS/WS-Attacker - WS-Attacker is a modular framework for web services penetration testing
    * https://github.com/wpscanteam/wpscan - WPScan is a black box WordPress vulnerability scanner
@@ -184,6 +185,7 @@ Table of Contents
    * https://wpvulndb.com/ - WPScan Vulnerability Database
    * https://snyk.io/vuln/ - Vulnerability DB, Detailed information and remediation guidance for known vulnerabilities.
    * https://stellastra.com/cipher-suite - Database of hundreds of TLS cipher suites and their security status.
+   * https://vulert.com/vuln-db - Vulert helps developers secure their software by monitoring and alerting them to vulnerabilities in open-source dependencies—without requiring access to their code. It supports dependencies from Js, PHP, Java, Python, and many more.
    * https://vulncheck.com/xdb/ - An index of exploit proof-of-concept code in Git repositories.
 
 ## Courses
