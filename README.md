@@ -59,6 +59,7 @@ Table of Contents
 ## Tools
 
    * https://www.deepinfo.com/ - Deepinfo Attack Surface Platform discovers all your digital assets, monitors them 24/7, detects any issues, and notifies you quickly so you can take immediate action.
+     * https://github.com/bountyyfi/lonkero - Enterprise-grade web vulnerability scanner with 60+ attack modules, built in Rust for penetration testing and security assessments.
    * https://spyse.com/ - OSINT search engine that provides fresh data about the entire web, storing all data in its own DB, interconnect finding data and has some cool features.
    * http://www.metasploit.com/ - World's most used penetration testing software
    * https://findsubdomains.com - Online subdomains scanner service with lots of additional data. works using OSINT.
