@@ -57,6 +57,8 @@ Table of Contents
    * https://appsecwiki.com/ - Application Security Wiki is an initiative to provide all Application security related resources to Security Researchers and developers at one place.
 
 ## Tools
+   * https://github.com/bad-antics/nullsec-linux - NullSec Linux - Security distribution with pre-configured web application testing tools
+   * https://github.com/bad-antics/nullsec-webfuzz - NullSec WebFuzz - Web application fuzzing framework
 
    * https://www.deepinfo.com/ - Deepinfo Attack Surface Platform discovers all your digital assets, monitors them 24/7, detects any issues, and notifies you quickly so you can take immediate action.
      * https://github.com/bountyyfi/lonkero - Enterprise-grade web vulnerability scanner with 60+ attack modules, built in Rust for penetration testing and security assessments.
