@@ -55,6 +55,7 @@ Table of Contents
    * http://www.pentest-standard.org/ - Penetration Testing Execution Standard
    * http://www.binary-auditing.com/ - Dr. Thorsten Schneider’s Binary Auditing
    * https://appsecwiki.com/ - Application Security Wiki is an initiative to provide all Application security related resources to Security Researchers and developers at one place.
+   * [AppSec Santa](https://appsecsanta.com) - Independent comparison of 129+ web application security tools across SAST, DAST, SCA, and more.
 
 ## Tools
    * https://github.com/bad-antics/nullsec-linux - NullSec Linux - Security distribution with pre-configured web application testing tools
