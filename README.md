@@ -19,6 +19,7 @@ Table of Contents
    * [Labs](#labs)
    * [SSL](#ssl)
    * [Security Ruby on Rails](#security-ruby-on-rails)
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts including web application security scanning and automated vulnerability analysis. MIT licensed.
 
 ## Books
 
