@@ -151,6 +151,7 @@ Table of Contents
    * https://github.com/lukechilds/reverse-shell - Easy to remember reverse shell that should work on most Unix-like systems.
    * https://github.com/momenbasel/keyFinder - Chrome extension that passively scans web pages for leaked API keys, tokens, and secrets using 80+ detection patterns and Shannon entropy across 10 attack surfaces.
 
+- [Gitstar](https://dev.gitstar.ai?utm_medium=github_readme&utm_source=awesome_list&utm_campaign=infoslack_awesome-web-hacking) - Follow developers on GitHub and see what repos they star. Like a social feed for repo discovery.
 ## Cheat Sheets
 
    * http://n0p.net/penguicon/php_app_sec/mirror/xss.html - XSS cheatsheet
