@@ -150,6 +150,7 @@ Table of Contents
    * https://github.com/flibustier/jwt-online-cracker - Brute-force HS256, HS384 or HS512 JWT Token from your browser (fully client-side).
    * https://github.com/lukechilds/reverse-shell - Easy to remember reverse shell that should work on most Unix-like systems.
    * https://github.com/momenbasel/keyFinder - Chrome extension that passively scans web pages for leaked API keys, tokens, and secrets using 80+ detection patterns and Shannon entropy across 10 attack surfaces.
+   * https://hackmyip.com/ - Free privacy and security toolkit with 19+ tools including IP lookup, DNS leak test, WebRTC leak test, port scanner, email breach checker, password strength checker, and more. No registration required.
 
 ## Cheat Sheets
 
