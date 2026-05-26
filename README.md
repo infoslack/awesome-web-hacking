@@ -196,6 +196,7 @@ Table of Contents
    * https://stellastra.com/cipher-suite - Database of hundreds of TLS cipher suites and their security status.
    * https://vulert.com/vuln-db - Vulert helps developers secure their software by monitoring and alerting them to vulnerabilities in open-source dependencies—without requiring access to their code. It supports dependencies from Js, PHP, Java, Python, and many more.
    * https://vulncheck.com/xdb/ - An index of exploit proof-of-concept code in Git repositories.
+   * https://labs.jamessawyer.co.uk/cves/ - CVE PoC Search provides CVE-to-GitHub proof-of-concept lookup to quickly pivot from a web vulnerability to public exploit code.
 
 ## Courses
 
