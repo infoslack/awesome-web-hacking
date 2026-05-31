@@ -260,6 +260,7 @@ Table of Contents
    * https://letsencrypt.org/ - Let’s Encrypt is a new Certificate Authority: It’s free, automated, and open.
    * https://filippo.io/Heartbleed/ - A checker (site and tool) for CVE-2014-0160 (Heartbleed).
    * https://testssl.sh/ - A command line tool which checks a website's TLS/SSL ciphers, protocols and cryptographic flaws.
+   * [Scorifya](https://www.scorifya.com) - 0–100 security score for any website covering TLS, security headers (CSP, HSTS, X-Frame-Options), cookies, DNS, and email signals (SPF, DKIM, DMARC) with ranked fix steps.
 
 ## Security Ruby on Rails
 
