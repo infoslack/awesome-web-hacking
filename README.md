@@ -153,6 +153,7 @@ Table of Contents
    * https://github.com/momenbasel/keyFinder - Chrome extension that passively scans web pages for leaked API keys, tokens, and secrets using 80+ detection patterns and Shannon entropy across 10 attack surfaces.
    * https://github.com/DenisPodgurskii/pentestkit - Browser-based vulnerability scanner for bug bounty and pentesting workflows, combining DAST, SAST, IAST, and SCA capabilities to detect runtime, source-level, interactive, and dependency-related security issues.
 - [SaaSFort](https://saasfort.com/scan) - Free 60-second external NIS2 / security posture scan, A-F grade, no signup required.
+- [ARS3NAL](https://github.com/inflictx/Arsenal) - Offline-first, searchable arsenal: ~1500 payloads, command generator, GTFOBins, wordlists, embedded CyberChef, reverse shells and 70 checklists.
 
 ## Cheat Sheets
 
