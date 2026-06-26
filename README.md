@@ -76,6 +76,7 @@ Table of Contents
    * https://github.com/iSECPartners/Scout2 - Security auditing tool for AWS environments
    * https://www.owasp.org/index.php/Category:OWASP_DirBuster_Project - Is a multi threaded java application designed to brute force directories and files names on web/application servers.
    * https://www.owasp.org/index.php/ZAP - The Zed Attack Proxy is an easy to use integrated penetration testing tool for finding vulnerabilities in web applications.
+   * https://github.com/vigolium/vigolium - High-fidelity web & API vulnerability scanner fusing agentic AI with a fast native engine; 250+ detection modules covering the OWASP Top 10, authenticated IDOR/BOLA & out-of-band testing, and OpenAPI/Postman/Burp/cURL inputs. Open-source, AGPL-3.0.
    * https://github.com/tecknicaltom/dsniff - dsniff is a collection of tools for network auditing and penetration testing.
    * https://github.com/WangYihang/Webshell-Sniper - Manage your webshell via terminal.
    * https://github.com/DanMcInerney/dnsspoof - DNS spoofer. Drops DNS responses from the router and replaces it with the spoofed DNS response
