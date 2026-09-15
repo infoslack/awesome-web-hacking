@@ -168,6 +168,7 @@ Table of Contents
 - [ImmuniWeb - Website Security Test](https://www.immuniweb.com/websec/) - Checks for web security vulnerabilities, AI bot protection, HTTP security and privacy headers, DNSSEC configuration, CSP, and compliance with GDPR and PCI DSS.  10 free tests per month (without account)
 - [Pentest Tools - Website Vulnerability Scanner](https://pentest-tools.com/website-vulnerability-scanning/website-scanner) - detects SQLi, XSS, command injection, XXE, and 75+ more web app vulnerabilities
 - [Pentest Tools - Network Vulnerability Scanner](https://pentest-tools.com/network-vulnerability-scanning/network-security-scanner-online) - an online security tool designed to identify vulnerabilities, misconfigurations, outdated services, and exposed ports in network infrastructure
+- [UpClaw](https://github.com/okdkebm/UpClaw) - AI-driven web pentest CLI; single zero-dependency Python file (29 built-in checks + 16 external tool adapters + evidence reports).
 
 ## Cheat Sheets
 
