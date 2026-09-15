@@ -73,6 +73,7 @@ Table of Contents
    * http://www.arachni-scanner.com/ - Web Application Security Scanner Framework
    * https://github.com/ASCIT31/Dark-Moon - Darkmoon is an open source (GPL-3.0) autonomous AI penetration testing platform that orchestrates 80+ tools over MCP with dedicated per-technology offensive sub-agents (GraphQL, Spring Boot, ASP.NET, Node.js, Flask, PHP, Ruby) and keeps a per-finding evidence trail.
    * https://github.com/BugTraceAI/BugTraceAI - BugTraceAI is an open-source multi-agent platform for authorized web application security testing with validation, evidence capture, and reporting.
+   * https://github.com/TayfurYldz/headerproof - HeaderProof is a developer-alpha, low-noise active scanner for authorized testing of header-driven web security leads such as CORS misconfiguration, response splitting, cache poisoning candidates, and reflection paths, with explicit evidence gates and false-positive suppression.
    * https://github.com/ANVEAI/anve-offsec - Autonomous AI security engineer & bug bounty platform in Kali Linux featuring stateful Hermes reasoning, OpenClaw Chromium browser sidecar, and Qdrant vector strategy RAG. 🇮🇳
    * https://github.com/sullo/nikto - Nikto web server scanner
    * http://www.tenable.com/products/nessus-vulnerability-scanner - Nessus Vulnerability Scanner
