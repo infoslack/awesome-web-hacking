@@ -68,6 +68,7 @@ Table of Contents
    * http://www.metasploit.com/ - World's most used penetration testing software
    * https://findsubdomains.com - Online subdomains scanner service with lots of additional data. works using OSINT.
    * https://cc.la - Free online toolkit for WHOIS, RDAP, DNS, IP WHOIS, SSL certificate lookup, name server history, network diagnostics (ping/traceroute/MTR), and domain monitoring. No sign-up required.
+   * https://vacato.io - Free RDAP domain watchlist: scheduled checks + Telegram/email/Slack when status looks available. Not a registrar or drop-catcher. Free tier: 10 domains.
    * https://github.com/BlessedRebuS/Krawl - Cloud-native Web deception server and anti-crawler.
    * https://github.com/bjeborn/basic-auth-pot HTTP Basic Authentication honeyPot.
    * http://www.arachni-scanner.com/ - Web Application Security Scanner Framework
@@ -168,7 +169,10 @@ Table of Contents
 - [ImmuniWeb - Website Security Test](https://www.immuniweb.com/websec/) - Checks for web security vulnerabilities, AI bot protection, HTTP security and privacy headers, DNSSEC configuration, CSP, and compliance with GDPR and PCI DSS.  10 free tests per month (without account)
 - [Pentest Tools - Website Vulnerability Scanner](https://pentest-tools.com/website-vulnerability-scanning/website-scanner) - detects SQLi, XSS, command injection, XXE, and 75+ more web app vulnerabilities
 - [Pentest Tools - Network Vulnerability Scanner](https://pentest-tools.com/network-vulnerability-scanning/network-security-scanner-online) - an online security tool designed to identify vulnerabilities, misconfigurations, outdated services, and exposed ports in network infrastructure
+- [UpClaw](https://github.com/okdkebm/UpClaw) - AI-driven web pentest CLI; single zero-dependency Python file (29 built-in checks + 16 external tool adapters + evidence reports).
 - [HTTP Detection Agent](https://github.com/ai-blueteam/http-detection-agent) - open-source, local-first HTTP attack detector: Rust CLI with 76 detections across 62 behavior families (injection, traversal, request smuggling, SSRF, XXE, deserialization, and more), plus a local MCP server for agent-driven triage
+
+
 
 ## Cheat Sheets
 
@@ -271,7 +275,7 @@ Table of Contents
 ## SSL
 
    * https://www.ssllabs.com/ssltest/index.html - This service performs a deep analysis of the configuration of any SSL web server on the public Internet.
-   * http://certdb.com/ - SSL/TLS data provider service. Collect the data about digital certificates - issuers, organisation, whois, expiration dates, etc... Plus, has handy filters for convenience.
+   * https://certobserver.com/ct-search - Search Certificate Transparency logs for SSL/TLS certificates issued for a domain.
    * https://raymii.org/s/tutorials/Strong_SSL_Security_On_nginx.html - Strong SSL Security on nginx
    * https://weakdh.org/ - Weak Diffie-Hellman and the Logjam Attack
    * https://letsencrypt.org/ - Let’s Encrypt is a new Certificate Authority: It’s free, automated, and open.
