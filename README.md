@@ -61,6 +61,7 @@ Table of Contents
    * https://github.com/bad-antics/nullsec-linux - NullSec Linux - Security distribution with pre-configured web application testing tools
    * https://github.com/bad-antics/nullsec-webfuzz - NullSec WebFuzz - Web application fuzzing framework
    * https://github.com/poszothebuilder/nextjs-security-headers-starter - Dependency-free Next.js security headers starter with CSP, HSTS, and a production verifier for CI.
+   * https://github.com/edilec/http-security-header-auditor - MIT Node.js CLI that checks saved HTTP response headers against a declared route policy, including missing fields and CSP contradictions. It does not scan live sites.
 
    * https://www.deepinfo.com/ - Deepinfo Attack Surface Platform discovers all your digital assets, monitors them 24/7, detects any issues, and notifies you quickly so you can take immediate action.
      * https://github.com/bountyyfi/lonkero - Enterprise-grade web vulnerability scanner with 60+ attack modules, built in Rust for penetration testing and security assessments.
