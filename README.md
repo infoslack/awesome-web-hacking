@@ -172,6 +172,7 @@ Table of Contents
 - [Pentest Tools - Network Vulnerability Scanner](https://pentest-tools.com/network-vulnerability-scanning/network-security-scanner-online) - an online security tool designed to identify vulnerabilities, misconfigurations, outdated services, and exposed ports in network infrastructure
 - [UpClaw](https://github.com/okdkebm/UpClaw) - AI-driven web pentest CLI; single zero-dependency Python file (29 built-in checks + 16 external tool adapters + evidence reports).
 - [HTTP Detection Agent](https://github.com/ai-blueteam/http-detection-agent) - open-source, local-first HTTP attack detector: Rust CLI with 76 detections across 62 behavior families (injection, traversal, request smuggling, SSRF, XXE, deserialization, and more), plus a local MCP server for agent-driven triage
+- [RedAmon](https://github.com/samugit83/redamon) - open-source, self-hosted AI penetration testing framework: maps the attack surface into a graph, exploits it from a Kali sandbox with human approval gates, and opens pull requests that fix what it finds
 
 
 
