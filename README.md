@@ -65,7 +65,7 @@ Table of Contents
    * https://www.deepinfo.com/ - Deepinfo Attack Surface Platform discovers all your digital assets, monitors them 24/7, detects any issues, and notifies you quickly so you can take immediate action.
      * https://github.com/bountyyfi/lonkero - Enterprise-grade web vulnerability scanner with 60+ attack modules, built in Rust for penetration testing and security assessments.
    * https://spyse.com/ - OSINT search engine that provides fresh data about the entire web, storing all data in its own DB, interconnect finding data and has some cool features.
-   * http://www.metasploit.com/ - World's most used penetration testing software
+   * https://cl0q.com/ - Open search engine for domain research & OSINT — 44.1M domains indexed, free API tier.
    * https://findsubdomains.com - Online subdomains scanner service with lots of additional data. works using OSINT.
    * https://cc.la - Free online toolkit for WHOIS, RDAP, DNS, IP WHOIS, SSL certificate lookup, name server history, network diagnostics (ping/traceroute/MTR), and domain monitoring. No sign-up required.
    * https://vacato.io - Free RDAP domain watchlist: scheduled checks + Telegram/email/Slack when status looks available. Not a registrar or drop-catcher. Free tier: 10 domains.
