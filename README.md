@@ -246,6 +246,7 @@ Table of Contents
    * https://ginandjuice.shop/catalog
    * https://pentest-ground.com/ Pentest-Ground is a free playground with deliberately vulnerable web applications and network services.
   * [HackSimulator](https://chatgpt.com/g/g-jnT7HlNeK-hacksimulator) is a GPT created by [MarkCyber](https://github.com/MarkCyber) in which chatGPT 4 acts as a hacking CTF. This GPT will ask for your experience level and what you would like to improve on, before simulating a machine/application for you to hack into, using the chatbox as the place to input terminal commands. Since this is through AI, it changes and adjust based on your experience level and you can ask for help if you are stuck.
+   * https://eyalsec.github.io/vulnerable-javascript/ - vulnerable-javascript, a deliberately vulnerable single page app with 21 DOM-XSS flows across 8 sources and 18 sinks, and a catalogue of one-click trigger URLs.
 
 ## Labs
    * https://portswigger.net/web-security - Web Security Academy: Free Online Training from PortSwigger
