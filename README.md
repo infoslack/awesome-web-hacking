@@ -77,6 +77,7 @@ Table of Contents
    * https://github.com/TayfurYldz/headerproof - HeaderProof is a developer-alpha, low-noise active scanner for authorized testing of header-driven web security leads such as CORS misconfiguration, response splitting, cache poisoning candidates, and reflection paths, with explicit evidence gates and false-positive suppression.
    * https://github.com/ANVEAI/anve-offsec - Autonomous AI security engineer & bug bounty platform in Kali Linux featuring stateful Hermes reasoning, OpenClaw Chromium browser sidecar, and Qdrant vector strategy RAG. 🇮🇳
    * https://github.com/sullo/nikto - Nikto web server scanner
+   * https://github.com/RanaKhan77/Website-Vulnerability-Scanner - Website Vulnerability Scanner - self-hosted DAST with 200 deterministic modules and evidence-backed, CVSS-scored reporting (zero AI at scan time, Apache-2.0)
    * http://www.tenable.com/products/nessus-vulnerability-scanner - Nessus Vulnerability Scanner
    * http://www.portswigger.net/burp/intruder.html - Burp Intruder is a tool for automating customized attacks against web apps.
    * http://www.openvas.org/ - The world's most advanced Open Source vulnerability scanner and manager.
