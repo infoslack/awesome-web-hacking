@@ -284,6 +284,7 @@ Table of Contents
    * https://testssl.sh/ - A command line tool which checks a website's TLS/SSL ciphers, protocols and cryptographic flaws.
    * [Scorifya](https://www.scorifya.com) - 0–100 security score for any website covering TLS, security headers (CSP, HSTS, X-Frame-Options), cookies, DNS, and email signals (SPF, DKIM, DMARC) with ranked fix steps.
    * [ImmuniWeb SSL Security Test](https://www.immuniweb.com/ssl/) - a free online tool that checks the security of a website or email server’s SSL/TLS configuration. Сhecks compliance with security standards such as NIST, HIPAA, PCI DSS, and GDPR. 10 free tests per month (without account)
+   * [WebToolBench SSL Certificate Checker](https://www.webtoolbench.com/ssl-certificate-checker) - Free online check of a site's TLS certificate: expiry date, issuer, signature algorithm and every hostname it covers.
 
 ## Security Ruby on Rails
 
