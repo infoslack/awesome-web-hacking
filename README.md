@@ -58,6 +58,7 @@ Table of Contents
    * [AppSec Santa](https://appsecsanta.com) - Independent comparison of 129+ web application security tools across SAST, DAST, SCA, and more.
 
 ## Tools
+   * https://github.com/hoehyeonlab/php-cve-2026-109618-check - php2shell-check: read-only detector for PHP CVE-2026-109618/109619 (CVSS 9.2) that scans the host and running Docker containers for vulnerable PHP.
    * https://github.com/bad-antics/nullsec-linux - NullSec Linux - Security distribution with pre-configured web application testing tools
    * https://github.com/bad-antics/nullsec-webfuzz - NullSec WebFuzz - Web application fuzzing framework
    * https://github.com/poszothebuilder/nextjs-security-headers-starter - Dependency-free Next.js security headers starter with CSP, HSTS, and a production verifier for CI.
