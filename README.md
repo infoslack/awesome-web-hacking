@@ -272,6 +272,7 @@ Table of Contents
    * https://pythoncyber.go.ro - CyberPython helps you to make your own research in order to solve challenges, exploit CVEs and make good scripts.
    * https://github.com/kOaDT/oss-oopssec-store - OSS – OopsSec Store: An intentionally vulnerable e-commerce application built with Next.js and React for web security training and CTF practice.
    * https://github.com/momenbasel/htb-writeups - HTB Writeups: The most comprehensive Hack The Box writeup collection with 500+ machines, 400+ challenges, ProLabs, Sherlocks, CTF events, and cheatsheets.
+   * https://breachloom.com - Breachloom is browser-based web and API security training with hands-on bug bounty challenges, a fix-the-code mode (repair the vulnerable code and pass a regression) and a theory library of 100+ chapters. A free IDOR case runs without an account; the full set requires a paid plan.
 
 ## SSL
 
