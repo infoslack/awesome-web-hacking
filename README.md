@@ -69,6 +69,7 @@ Table of Contents
    * https://findsubdomains.com - Online subdomains scanner service with lots of additional data. works using OSINT.
    * https://cc.la - Free online toolkit for WHOIS, RDAP, DNS, IP WHOIS, SSL certificate lookup, name server history, network diagnostics (ping/traceroute/MTR), and domain monitoring. No sign-up required.
    * https://vacato.io - Free RDAP domain watchlist: scheduled checks + Telegram/email/Slack when status looks available. Not a registrar or drop-catcher. Free tier: 10 domains.
+   * https://pendingdelete.net - Free daily lists of domains in redemption and pending delete with registry-confirmed drop times, WHOIS/RDAP lookups and free CSV/TXT/JSON downloads. No sign-up required.
    * https://github.com/BlessedRebuS/Krawl - Cloud-native Web deception server and anti-crawler.
    * https://github.com/bjeborn/basic-auth-pot HTTP Basic Authentication honeyPot.
    * http://www.arachni-scanner.com/ - Web Application Security Scanner Framework
