@@ -76,6 +76,7 @@ Table of Contents
    * https://github.com/BugTraceAI/BugTraceAI - BugTraceAI is an open-source multi-agent platform for authorized web application security testing with validation, evidence capture, and reporting.
    * https://github.com/TayfurYldz/headerproof - HeaderProof is a developer-alpha, low-noise active scanner for authorized testing of header-driven web security leads such as CORS misconfiguration, response splitting, cache poisoning candidates, and reflection paths, with explicit evidence gates and false-positive suppression.
    * https://github.com/ANVEAI/anve-offsec - Autonomous AI security engineer & bug bounty platform in Kali Linux featuring stateful Hermes reasoning, OpenClaw Chromium browser sidecar, and Qdrant vector strategy RAG. 🇮🇳
+   * https://spoof-me.com/ - Spoof Me - Free Chrome/Firefox extension that rewrites the User-Agent and Accept-Language headers and the matching JS signals (navigator, screen, timezone) before page scripts run. Useful for testing user-agent, locale and device-gated behaviour, and it flags pages that read fingerprinting signals.
    * https://github.com/sullo/nikto - Nikto web server scanner
    * http://www.tenable.com/products/nessus-vulnerability-scanner - Nessus Vulnerability Scanner
    * http://www.portswigger.net/burp/intruder.html - Burp Intruder is a tool for automating customized attacks against web apps.
