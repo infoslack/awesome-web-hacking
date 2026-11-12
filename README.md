@@ -173,6 +173,7 @@ Table of Contents
 - [UpClaw](https://github.com/okdkebm/UpClaw) - AI-driven web pentest CLI; single zero-dependency Python file (29 built-in checks + 16 external tool adapters + evidence reports).
 - [HTTP Detection Agent](https://github.com/ai-blueteam/http-detection-agent) - open-source, local-first HTTP attack detector: Rust CLI with 76 detections across 62 behavior families (injection, traversal, request smuggling, SSRF, XXE, deserialization, and more), plus a local MCP server for agent-driven triage
 - [KeyDrift](https://keydrift.dev) - Scans deployed HTML and JavaScript for exposed secrets while recognizing public browser credentials that should not be treated as leaks.
+- [Madsalt Supabase Checker](https://madsalt.tech/tools/supabase-security-check/) - Free read-only scan of a Supabase project's RLS policies, grants, functions, auth and storage settings, 46 checks mapped to OWASP Top 10:2025, with fix SQL; never reads table rows.
 
 
 
