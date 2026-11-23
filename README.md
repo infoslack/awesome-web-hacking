@@ -173,6 +173,7 @@ Table of Contents
 - [UpClaw](https://github.com/okdkebm/UpClaw) - AI-driven web pentest CLI; single zero-dependency Python file (29 built-in checks + 16 external tool adapters + evidence reports).
 - [HTTP Detection Agent](https://github.com/ai-blueteam/http-detection-agent) - open-source, local-first HTTP attack detector: Rust CLI with 76 detections across 62 behavior families (injection, traversal, request smuggling, SSRF, XXE, deserialization, and more), plus a local MCP server for agent-driven triage
 - [KeyDrift](https://keydrift.dev) - Scans deployed HTML and JavaScript for exposed secrets while recognizing public browser credentials that should not be treated as leaks.
+- [scanfuse](https://github.com/gencay-e/scanfuse) - Offline CLI that merges and deduplicates findings across 11 scanner formats (Nmap, Nuclei, OWASP ZAP, Burp Suite, Nessus, Trivy, SARIF, Semgrep, Grype, Nikto, testssl.sh) into Markdown, HTML, JSON, CSV, SARIF, or PDF reports.
 
 
 
