@@ -173,6 +173,7 @@ Table of Contents
 - [UpClaw](https://github.com/okdkebm/UpClaw) - AI-driven web pentest CLI; single zero-dependency Python file (29 built-in checks + 16 external tool adapters + evidence reports).
 - [HTTP Detection Agent](https://github.com/ai-blueteam/http-detection-agent) - open-source, local-first HTTP attack detector: Rust CLI with 76 detections across 62 behavior families (injection, traversal, request smuggling, SSRF, XXE, deserialization, and more), plus a local MCP server for agent-driven triage
 - [KeyDrift](https://keydrift.dev) - Scans deployed HTML and JavaScript for exposed secrets while recognizing public browser credentials that should not be treated as leaks.
+- [VibeShield](https://vibe-checker.appwrite.network/) - Free zero-login passive 116-check web app security scanner inspecting deployed JS bundles (52 secret rules), 10 Observatory security headers, CSP, 28 SPA-filtered sensitive paths, and read-only Supabase/Firebase exposure.
 
 
 
