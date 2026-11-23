@@ -21,6 +21,8 @@ Table of Contents
    * [Security Ruby on Rails](#security-ruby-on-rails)
 
 ## Books
+- [RansomLeak](https://ransomleak.com) - Interactive security training with 100+ hands-on exercises. Free for individuals, enterprise options available.
+
 
    * http://www.amazon.com/The-Web-Application-Hackers-Handbook/dp/8126533404/ The Web Application Hacker’s Handbook: Finding and Exploiting Security Flaws
    * http://www.amazon.com/Hacking-Web-Apps-Preventing-Application/dp/159749951X/ Hacking Web Apps: Detecting and Preventing Web Application Security Problems
