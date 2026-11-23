@@ -159,6 +159,7 @@ Table of Contents
    * [BadUSB Script To Exfiltrate Passwords](https://github.com/MarkCyber/BadUSB/blob/main/HackStuff/CredentialHarvester.txt) - Extracts all saved passwords from Chrome, Firefox, and Edge to be saved onto secondary USB for further analysis.
    * https://github.com/flibustier/jwt-online-cracker - Brute-force HS256, HS384 or HS512 JWT Token from your browser (fully client-side).
    * [jwt-auditor](https://github.com/mohelobeid/jwt-auditor) - Offline CLI to decode and audit JWTs for alg:none, weak HMAC secrets, and RS256 to HS256 confusion.
+   * [jwtlint](https://github.com/ReazGan/jwtlint) - Offline CLI that lints JWTs for alg:none, RS/HS confusion, jku/x5u/jwk/x5c headers, kid injection, secrets in claims, and weak HMAC keys; JSON output and CI exit code.
    * https://github.com/lukechilds/reverse-shell - Easy to remember reverse shell that should work on most Unix-like systems.
    * https://github.com/momenbasel/keyFinder - Chrome extension that passively scans web pages for leaked API keys, tokens, and secrets using 80+ detection patterns and Shannon entropy across 10 attack surfaces.
    * https://github.com/DenisPodgurskii/pentestkit - Browser-based vulnerability scanner for bug bounty and pentesting workflows, combining DAST, SAST, IAST, and SCA capabilities to detect runtime, source-level, interactive, and dependency-related security issues.
