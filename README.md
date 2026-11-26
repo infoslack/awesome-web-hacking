@@ -156,6 +156,7 @@ Table of Contents
    * https://github.com/assetnote/kiterunner - API discovery
    * https://github.com/owasp-amass/amass - domain recon
    * [https://columbus.elmasy.com/](https://columbus.elmasy.com/) - Columbus Project is an advanced subdomain discovery service with fast, powerful and easy to use API.
+   * https://getdomainlists.com/?ref=awesome-webhacking - GetDomainLists: plain-text lists of registrable domain names and subdomains for recon (paid, one-time per release), with free samples per TLD and free Python scripts (https://github.com/getdomainlists/dataset).
    * [BadUSB Script To Exfiltrate Passwords](https://github.com/MarkCyber/BadUSB/blob/main/HackStuff/CredentialHarvester.txt) - Extracts all saved passwords from Chrome, Firefox, and Edge to be saved onto secondary USB for further analysis.
    * https://github.com/flibustier/jwt-online-cracker - Brute-force HS256, HS384 or HS512 JWT Token from your browser (fully client-side).
    * [jwt-auditor](https://github.com/mohelobeid/jwt-auditor) - Offline CLI to decode and audit JWTs for alg:none, weak HMAC secrets, and RS256 to HS256 confusion.
