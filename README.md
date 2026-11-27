@@ -249,6 +249,7 @@ Table of Contents
   * [HackSimulator](https://chatgpt.com/g/g-jnT7HlNeK-hacksimulator) is a GPT created by [MarkCyber](https://github.com/MarkCyber) in which chatGPT 4 acts as a hacking CTF. This GPT will ask for your experience level and what you would like to improve on, before simulating a machine/application for you to hack into, using the chatbox as the place to input terminal commands. Since this is through AI, it changes and adjust based on your experience level and you can ask for help if you are stuck.
 
 ## Labs
+   * https://webverselabs-pro.com/ - Platform with instances of every web vulnerability.
    * https://portswigger.net/web-security - Web Security Academy: Free Online Training from PortSwigger
    * http://www.cis.syr.edu/~wedu/seed/all_labs.html - Developing Instructional Laboratories for Computer SEcurity EDucation
    * https://www.vulnhub.com/ - Virtual Machines for Localhost Penetration Testing.
