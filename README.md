@@ -288,6 +288,7 @@ Table of Contents
 
 ## Security Ruby on Rails
 
+* [Insomnia Security MCP](https://github.com/CQR-Cybersecurity-LLC/insomnia-mcp) - Unified offensive security & AppSec MCP server for AI agents (160 tools: multi-language SAST/taint, live secret validation, Web DAST, 21,100+ 1-Day CVE verification, 29-protocol enumeration, OSINT, Cloud/AD audit, Scope Firewall; Streamable HTTP & local CLI).
    * http://brakemanscanner.org/ - A static analysis security vulnerability scanner for Ruby on Rails applications.
    * https://github.com/rubysec/ruby-advisory-db - A database of vulnerable Ruby Gems
    * https://github.com/rubysec/bundler-audit - Patch-level verification for Bundler
